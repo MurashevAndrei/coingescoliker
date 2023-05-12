@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bs4 = "*"
+lxml = "*"
+aiohttp = "*"
+gunicorn = "*"
+django-heroku = "*"
+pymongo = {extras = ["srv"], version = "*"}
+dnspython = "*"
+cfscrape = "*"
+aiocfscrape = "*"
+requests = {extras = ["socks"], version = "*"}
+fake-useragent = "*"
+cloudscraper = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
