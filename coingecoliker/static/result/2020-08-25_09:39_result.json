@@ -1,0 +1,3164 @@
+{
+    "ethereum": {
+        "total_val": 100755,
+        "diff-1": 0,
+        "diff-2": 341,
+        "diff-3": 0
+    },
+    "ethereum-classic": {
+        "total_val": 23375,
+        "diff-1": 0,
+        "diff-2": 7,
+        "diff-3": 0
+    },
+    "eos": {
+        "total_val": 16559,
+        "diff-1": 0,
+        "diff-2": 46,
+        "diff-3": 0
+    },
+    "waves": {
+        "total_val": 10539,
+        "diff-1": 0,
+        "diff-2": 25,
+        "diff-3": 0
+    },
+    "ethlend": {
+        "total_val": 10027,
+        "diff-1": 0,
+        "diff-2": 278,
+        "diff-3": 0
+    },
+    "electroneum": {
+        "total_val": 9381,
+        "diff-1": 0,
+        "diff-2": 8,
+        "diff-3": 0
+    },
+    "enjincoin": {
+        "total_val": 8047,
+        "diff-1": 0,
+        "diff-2": 77,
+        "diff-3": 0
+    },
+    "elrond": {
+        "total_val": 7972,
+        "diff-1": 0,
+        "diff-2": 68,
+        "diff-3": 0
+    },
+    "energy-web-token": {
+        "total_val": 5266,
+        "diff-1": 0,
+        "diff-2": 77,
+        "diff-3": 0
+    },
+    "bzx-protocol": {
+        "total_val": 3431,
+        "diff-1": 0,
+        "diff-2": 52,
+        "diff-3": 0
+    },
+    "xio": {
+        "total_val": 3289,
+        "diff-1": 0,
+        "diff-2": 35,
+        "diff-3": 0
+    },
+    "xp": {
+        "total_val": 3250,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "xdai-stake": {
+        "total_val": 3134,
+        "diff-1": 0,
+        "diff-2": 257,
+        "diff-3": 0
+    },
+    "celer-network": {
+        "total_val": 2930,
+        "diff-1": 0,
+        "diff-2": 22,
+        "diff-3": 0
+    },
+    "burst": {
+        "total_val": 2643,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "enigma": {
+        "total_val": 2555,
+        "diff-1": 0,
+        "diff-2": 38,
+        "diff-3": 0
+    },
+    "energi": {
+        "total_val": 2543,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "ethereum-gold": {
+        "total_val": 2316,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "einsteinium": {
+        "total_val": 2233,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "waltonchain": {
+        "total_val": 2175,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "cbdao": {
+        "total_val": 2135,
+        "diff-1": 0,
+        "diff-2": 63,
+        "diff-3": 0
+    },
+    "wanchain": {
+        "total_val": 2088,
+        "diff-1": 0,
+        "diff-2": 14,
+        "diff-3": 0
+    },
+    "blockstack": {
+        "total_val": 1978,
+        "diff-1": 0,
+        "diff-2": 14,
+        "diff-3": 0
+    },
+    "ethereum-lite": {
+        "total_val": 1931,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wax": {
+        "total_val": 1883,
+        "diff-1": 0,
+        "diff-2": 8,
+        "diff-3": 0
+    },
+    "wazirx": {
+        "total_val": 1818,
+        "diff-1": 0,
+        "diff-2": 19,
+        "diff-3": 0
+    },
+    "elastos": {
+        "total_val": 1562,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "wabi": {
+        "total_val": 1458,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "wink": {
+        "total_val": 1375,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "casinocoin": {
+        "total_val": 1358,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "electra": {
+        "total_val": 1320,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "wings": {
+        "total_val": 1307,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "emercoin": {
+        "total_val": 1288,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "worldcoin": {
+        "total_val": 1252,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bytom": {
+        "total_val": 1227,
+        "diff-1": 0,
+        "diff-2": 6,
+        "diff-3": 0
+    },
+    "wirex": {
+        "total_val": 1150,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vite": {
+        "total_val": 1104,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "bluecoin": {
+        "total_val": 1053,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whitecoin": {
+        "total_val": 840,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boolberry": {
+        "total_val": 817,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wetrust": {
+        "total_val": 807,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "blue": {
+        "total_val": 739,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bread": {
+        "total_val": 738,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "espers": {
+        "total_val": 737,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wrapped-nxm": {
+        "total_val": 733,
+        "diff-1": 0,
+        "diff-2": 14,
+        "diff-3": 0
+    },
+    "electronicgulden": {
+        "total_val": 705,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bottlecaps": {
+        "total_val": 694,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etherparty": {
+        "total_val": 682,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wepower": {
+        "total_val": 673,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "erc20": {
+        "total_val": 655,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "ceek": {
+        "total_val": 650,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "blox": {
+        "total_val": 627,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "v-systems": {
+        "total_val": 622,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "boostcoin": {
+        "total_val": 610,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vpncoin": {
+        "total_val": 599,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "energycoin": {
+        "total_val": 576,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bounce-token": {
+        "total_val": 561,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "bridge-protocol": {
+        "total_val": 553,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "etherdoge": {
+        "total_val": 549,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wagerr": {
+        "total_val": 506,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "web-token-pay": {
+        "total_val": 448,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cat-token": {
+        "total_val": 435,
+        "diff-1": 0,
+        "diff-2": 41,
+        "diff-3": 0
+    },
+    "ellaism": {
+        "total_val": 411,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ergo": {
+        "total_val": 408,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "x-cash": {
+        "total_val": 402,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vslice": {
+        "total_val": 400,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "xiotri": {
+        "total_val": 399,
+        "diff-1": 0,
+        "diff-2": 40,
+        "diff-3": 0
+    },
+    "xmax": {
+        "total_val": 395,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "vivo": {
+        "total_val": 394,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bunnycoin": {
+        "total_val": 384,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "cdai": {
+        "total_val": 384,
+        "diff-1": 0,
+        "diff-2": 6,
+        "diff-3": 0
+    },
+    "elastic": {
+        "total_val": 378,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bomb": {
+        "total_val": 378,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "catcoin": {
+        "total_val": 377,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wild-beast-block": {
+        "total_val": 369,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "voise": {
+        "total_val": 354,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wom-token": {
+        "total_val": 345,
+        "diff-1": 0,
+        "diff-2": 11,
+        "diff-3": 0
+    },
+    "empowr-coin": {
+        "total_val": 341,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "bolivarcoin": {
+        "total_val": 328,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wrapped-bitcoin": {
+        "total_val": 325,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "bloom": {
+        "total_val": 315,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "bounty0x": {
+        "total_val": 314,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blockv": {
+        "total_val": 306,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "e-sport-betting-coin": {
+        "total_val": 306,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eterbase": {
+        "total_val": 304,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wownero": {
+        "total_val": 301,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "essentia": {
+        "total_val": 299,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethart": {
+        "total_val": 284,
+        "diff-1": 0,
+        "diff-2": -2,
+        "diff-3": 0
+    },
+    "waifu-token": {
+        "total_val": 270,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "wincash-coin": {
+        "total_val": 270,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bonpay": {
+        "total_val": 268,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bosagora": {
+        "total_val": 262,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "eltcoin": {
+        "total_val": 257,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etherzero": {
+        "total_val": 248,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "encrypgen": {
+        "total_val": 247,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "weth": {
+        "total_val": 247,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "ether-1": {
+        "total_val": 245,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "eternity": {
+        "total_val": 241,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brother": {
+        "total_val": 241,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "endor": {
+        "total_val": 238,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etherisc": {
+        "total_val": 236,
+        "diff-1": 0,
+        "diff-2": 6,
+        "diff-3": 0
+    },
+    "cash-poker-pro": {
+        "total_val": 235,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vsync": {
+        "total_val": 231,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btcmoon": {
+        "total_val": 231,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eosdac": {
+        "total_val": 225,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blocktix": {
+        "total_val": 223,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "electronero-pulse": {
+        "total_val": 216,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bnktothefuture": {
+        "total_val": 212,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "webchain": {
+        "total_val": 212,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "celcoin": {
+        "total_val": 211,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "worldcore": {
+        "total_val": 206,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wincoin": {
+        "total_val": 205,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "europecoin": {
+        "total_val": 204,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "winding-tree": {
+        "total_val": 203,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "womencoin": {
+        "total_val": 202,
+        "diff-1": 0,
+        "diff-2": -2,
+        "diff-3": 0
+    },
+    "elementrem": {
+        "total_val": 194,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "epic-cash": {
+        "total_val": 194,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "bonk-token": {
+        "total_val": 188,
+        "diff-1": 0,
+        "diff-2": -3,
+        "diff-3": 0
+    },
+    "waves-community-token": {
+        "total_val": 183,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "energo": {
+        "total_val": 180,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethbits": {
+        "total_val": 175,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "electrify-asia": {
+        "total_val": 170,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "waves-enterprise": {
+        "total_val": 170,
+        "diff-1": 0,
+        "diff-2": -2,
+        "diff-3": 0
+    },
+    "waykichain": {
+        "total_val": 167,
+        "diff-1": 0,
+        "diff-2": -2,
+        "diff-3": 0
+    },
+    "vollar": {
+        "total_val": 162,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bnx": {
+        "total_val": 154,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "envion": {
+        "total_val": 154,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bottos": {
+        "total_val": 151,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "webdollar": {
+        "total_val": 149,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "btc-lite": {
+        "total_val": 148,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "euro-token": {
+        "total_val": 148,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "equitrader": {
+        "total_val": 147,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bns-token": {
+        "total_val": 144,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vitex": {
+        "total_val": 143,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brazio": {
+        "total_val": 139,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wild-crypto": {
+        "total_val": 138,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eureka-coin": {
+        "total_val": 137,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wicoin": {
+        "total_val": 131,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whale": {
+        "total_val": 131,
+        "diff-1": 0,
+        "diff-2": 7,
+        "diff-3": 0
+    },
+    "emerald-crypto": {
+        "total_val": 130,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "catex-token": {
+        "total_val": 127,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blocktrade": {
+        "total_val": 123,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "equal": {
+        "total_val": 122,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "bora": {
+        "total_val": 121,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereum-gold-project": {
+        "total_val": 121,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "ethbold": {
+        "total_val": 115,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xdna": {
+        "total_val": 113,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vodi-x": {
+        "total_val": 112,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etheera": {
+        "total_val": 110,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wixlar": {
+        "total_val": 105,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boldman-capital": {
+        "total_val": 102,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "buxcoin": {
+        "total_val": 98,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "emanate": {
+        "total_val": 97,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blue-whale": {
+        "total_val": 96,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "worktips": {
+        "total_val": 95,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "w3coin": {
+        "total_val": 94,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "breezecoin": {
+        "total_val": 91,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brickblock": {
+        "total_val": 89,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btu-protocol": {
+        "total_val": 89,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereum-money": {
+        "total_val": 89,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "burency": {
+        "total_val": 88,
+        "diff-1": 0,
+        "diff-2": 33,
+        "diff-3": 0
+    },
+    "boat": {
+        "total_val": 86,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wavesgo": {
+        "total_val": 86,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "webcoin": {
+        "total_val": 86,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereum-erush": {
+        "total_val": 83,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "elysian": {
+        "total_val": 82,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etherinc": {
+        "total_val": 82,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xenia-coin": {
+        "total_val": 82,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "buck": {
+        "total_val": 81,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bloc-money": {
+        "total_val": 79,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bolenum": {
+        "total_val": 79,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bunnytoken": {
+        "total_val": 79,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wpp-token": {
+        "total_val": 78,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "ethersocial": {
+        "total_val": 77,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xeniumx": {
+        "total_val": 77,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xpay-pro-token": {
+        "total_val": 77,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "eon": {
+        "total_val": 75,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "engine": {
+        "total_val": 74,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eldorado-token": {
+        "total_val": 74,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "budbo": {
+        "total_val": 74,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "esports": {
+        "total_val": 71,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eosbet": {
+        "total_val": 71,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wibx": {
+        "total_val": 71,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "eosforce": {
+        "total_val": 70,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eos-trust": {
+        "total_val": 70,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "woyager": {
+        "total_val": 70,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wooshcoin-io": {
+        "total_val": 69,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "emirex-token": {
+        "total_val": 68,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blur-network": {
+        "total_val": 67,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "caspian": {
+        "total_val": 67,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "wearesatoshi": {
+        "total_val": 67,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "winco": {
+        "total_val": 66,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eligma": {
+        "total_val": 65,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wandx": {
+        "total_val": 65,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eurbase": {
+        "total_val": 64,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "volentix-vtx": {
+        "total_val": 63,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "energi-token": {
+        "total_val": 63,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bricktox": {
+        "total_val": 63,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wrkzcoin": {
+        "total_val": 63,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "elitium": {
+        "total_val": 62,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "worbli": {
+        "total_val": 62,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "en-tan-mo": {
+        "total_val": 61,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "boltt-coin": {
+        "total_val": 60,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vndc": {
+        "total_val": 59,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "emrals": {
+        "total_val": 57,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "electronic-energy-coin": {
+        "total_val": 57,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boxx": {
+        "total_val": 57,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "bulleon": {
+        "total_val": 56,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethersportz": {
+        "total_val": 56,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "escroco": {
+        "total_val": 55,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eska": {
+        "total_val": 55,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "elicoin": {
+        "total_val": 54,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wednesday-coin": {
+        "total_val": 54,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cbi-index-7": {
+        "total_val": 54,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blockstamp": {
+        "total_val": 52,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brappertoken": {
+        "total_val": 52,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btse-token": {
+        "total_val": 52,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "esax-sto": {
+        "total_val": 51,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wawllet": {
+        "total_val": 50,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "welltrado": {
+        "total_val": 50,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bqt": {
+        "total_val": 49,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "web-innovation-ph": {
+        "total_val": 48,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "elya": {
+        "total_val": 46,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bowscoin": {
+        "total_val": 46,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xpay-token": {
+        "total_val": 46,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "volt": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "briacoin": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eristica": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "weshow": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "when-token": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereumx": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eosblack": {
+        "total_val": 42,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "electronic-pk-chain": {
+        "total_val": 42,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethercash": {
+        "total_val": 42,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xgalaxy": {
+        "total_val": 42,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wire": {
+        "total_val": 41,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cashhand": {
+        "total_val": 41,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "c3-wallet": {
+        "total_val": 41,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vites": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etherbone": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "enkronos": {
+        "total_val": 39,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wavesbet": {
+        "total_val": 39,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "elamachain": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "buddy": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eos-btc": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wonder": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereum-power": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etherdiamond": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ether-legends": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "waletoken": {
+        "total_val": 36,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boosto": {
+        "total_val": 36,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boscore": {
+        "total_val": 36,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whale-coin": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bravo-coin": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wrapped-cryptokitties": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "xeonbit-token": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wab-network": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "x8-project": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xcrypt": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "emogi-network": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boom-token": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "willowcoin": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "catscoin": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vn-gateway": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eosadd": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boutspro": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vulcoin": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blue-baikal": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bnoincoin": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "epacoin": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "escrowblock": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "waykichain-governance-coin": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "esports-token": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eurocoinpay": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethercare": {
+        "total_val": 30,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "emergency-coin": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "warranty-chain": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whalesburg": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eos-eth": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "braziliexs-token": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bumo": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "xavander-coin": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "voyager": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "era-swap-token": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "euphoria": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "byzbit": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vns-coin": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "elysia": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "buccaneer": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "elphyrecoin": {
+        "total_val": 24,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boardcoin": {
+        "total_val": 24,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "encocoin": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vn-token": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "enzo": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btcf-coin": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "winsor-token": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btf": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cat-trade-protocol": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "eros": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "burndrop": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wegen-platform": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etheal": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "winstars": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brand-coin": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boatpilot": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "encocoinplus": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "box-token": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wechain-coin": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brixcoin": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bsha3": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brofist-coin": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereumai": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "castweet": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whole-network": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xgoldcoin": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "empow": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "electron": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "endorsit": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bloomzed-token": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "voltz": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boogle": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "escash-coin": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethbnt": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereum-fog": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "business-credit-alliance-chain": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "entercoin": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wellness-token-economy": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "escx-token": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "escobar": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "w-green-pay": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "widecash": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xfuel": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xpense": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "botxcoin": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vote-coin": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vortex-network": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bonorum-coin": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "c2x": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bonuscloud": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btcdown": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ether-bird": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bryllite": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bzx-dai-itoken": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "european-coin-alliance": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "voyage": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "encryptotel-eth": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "encryptotel-eth-2": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "world-credit-diamond-coin": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "waytom": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wolfs-group": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereum-cloud": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bytus": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cache-gold": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etoro-euro": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "empower-network": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vsportcoin": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wiki-token": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btecoin": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethash-miner": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bytn": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blucon": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "voytek-bear-coin": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bnb3l": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boolean": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "bowl-a-coin": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "epluscoin": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "world-referendums": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etc8": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth_20_day_ma_crossover_set": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-network-demand-set-ii": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bulldog": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wesing-coin": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bnb3s": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wokecash": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eos-pow-coin": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bone": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "won-coin": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-alpha-token": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whiterockcasino": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btcup": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "buy-coin-pos": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethereum-message-search": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cachecoin": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wallet-plus-x": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "empire-coin": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "epay": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wishchain": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bmchain-token": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "worldwidetrade": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bulpcoin": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xenon": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "xenon-2": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "ccbrother": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "voucher-coin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "entone": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "worldpet": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "esr-wallet": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-20-day-ma-crossover-yield-set": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-btc-ema-ratio-trading-set": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xank": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wayawolfcoin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xenios": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "buzzshow": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "business-credit-substitute": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "walleteum": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "watchdog": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vnx-exchange": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eoshash": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wal": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vtchain": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "elevation-token": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brapper-token": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "worldwoc": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "escort-coin": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brazilreallatoken": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vocal-chain": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btcshort": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "celeum": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etrade": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cb-token": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blood": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bodhi-network": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "work-force-coin": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eospace": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wizbl": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "borderless": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bmj-coin": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whatshalal": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "erc223": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "winners-token": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eric-coin": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "buckhath-coin": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eleven01": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "electronic-move-pay": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wavesgames": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "electric-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wm-professional": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "electric-vehicle-zone": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bqcc-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etb": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wrapped-marblecards": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wrapped-zebellion": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "cash-global-coin": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "energoncoin": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "watermelonblock": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "voda-token": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "votepoint": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boon-tech": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bpop": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wdna": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wemergetoken": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eternalcasino-invest": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whalechain": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "webloc": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "energy-source": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-eth-equal-weight-set": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-50-day-ma-crossover-set": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etoro-swiss-franc": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "blockvoice": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "emob": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bridge-dream-x": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vomer": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "elevato": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "brick": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-26-day-ema-crossover-set": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-12-day-ema-crossover-set": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-range-bound-high-volatility-set": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "entherfound": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bullbearbitcoin-set-ii": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wine-chain": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btsunicorn": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "essek-tov": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cbe": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xenoverse": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "etoro-singapore-dollar": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eulo": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cctc": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "vonnicon": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bostte": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "boxaxis": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-btc-long-only-alpha-portfolio": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-long-only-alpha-portfolio": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-rsi-crossover-yield-set": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bsys": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-ta-set-ii": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bullion-exchange": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-btc-rsi-ratio-trading-set": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eup-chain": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "enterprise-digital-alliance": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wbtc-cusdc-rsi-set": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "botton": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "epc": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wbtc-usdc-rsi-set": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc1d3l": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wayfair-ci-a": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-moonshot-set": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wiix-coin": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bullionpay": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethera": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-26-ema-crossover-yield-set": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xiu-chain": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "wallabee": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "walgreen-boots-alliance": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "energous-corporation": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "world-wide-web-coin": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "weidai": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bring": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc1d3s": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "whiting-petroleum": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth1d3l": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-eth-75-25-weight-set": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ethbtc-price-action-candlestick-set": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-moonshot-x-set": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-26-ma-crossover-yield-ii": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "weibo-corporation": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-on-chain-beta-portfolio-set": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-20-ma-crossover-yield-set-ii": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth-ai-limit-loss": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "eth1d3s": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "catalent-inc": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "buyucoin-token": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "workday-inc": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-ai-limit-loss": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-fund-active-trading-set": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "btc-vol-switching-set": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "bluebird-bio-inc": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "xilinx-inc": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    }
+}

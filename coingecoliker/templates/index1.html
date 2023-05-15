@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  {% load static %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+  <link href="{% static 'css/table.css' %}" rel="stylesheet">
+  <script src="{% static 'css/table.js' %}"></script>
+  <!--<link href="https://unpkg.com/bootstrap-table@1.17.1/dist/bootstrap-table.min.css" rel="stylesheet">
+  <script src="https://unpkg.com/bootstrap-table@1.17.1/dist/bootstrap-table.min.js"></script>-->
+  <link type='text/css' rel="stylesheet" href="{% static 'css/style.css' %}">
+
+</head>
+<body>
+
+<div class="container">
+  <h1> Table of coins</h1>
+  <div class='row'>
+  <div class="col-6">
+  <form class='form-inline' action='' method='post'>
+	        {% csrf_token %}
+     <label for="datetime-from">Date from to</label>
+     		<input class="form-control" type="date" value="2020-08-19" id="datetime-from" name='from'>
+     		<input class="form-control" type="date" value="2020-08-19" id="datetime-to" name='to'>
+		<button type="submit" class="btn btn-primary">OK</button>
+	  </form>
+   </div>
+  </div>
+  <div class='row'>
+  <div class="table-responsive">
+  <table id="table"
+  data-toggle="table"
+  data-sort-name="total"
+  data-sort-order="desc">
+    <thead>
+      <tr>
+        <th data-field="id" data-sortable="true">Coin name</th>
+        <th data-field="total" data-sortable="true">Total val now</th>
+        <th data-field="1h" data-sortable="true">Diff 1 hour ago</th>
+        <th data-field="1d" data-sortable="true">Diff 1 day ago</th>
+        <th data-field="1w" data-sortable="true">Diff 1 week ago</th>
+	{% if dfrom %}
+		<th data-field="custom" data-sortable="true">{{dfrom}} to {{dto}}</th>
+	{% else %}
+		<th data-field="custom" data-sortable="true">2020-08-01 to 2020-08-10</th>
+	{% endif %}
+
+
+      </tr>
+    </thead>
+    <tbody>
+    {%for coin in coins %}
+      <tr>
+	<td><a href='{{coin.url}}'>{{coin.coin}}</a></td>
+        <td>{{coin.total_val}}</td>
+        <td>{{coin.1h}}</td>
+        <td>{{coin.1d}}</td>
+        <td>{{coin.1w}}</td>
+        <td>{{coin.custom_date}}</td>
+      </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+  </div>
+</div>
+<script>
+</script>
+</body>
+</html>
+

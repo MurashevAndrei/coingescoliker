@@ -1,0 +1,5849 @@
+{
+    "dash": {
+        "total_val": 30243,
+        "diff-1": 0,
+        "diff-2": 34,
+        "diff-3": 0
+    },
+    "neo": {
+        "total_val": 18788,
+        "diff-1": 0,
+        "diff-2": 54,
+        "diff-3": 0
+    },
+    "nem": {
+        "total_val": 15007,
+        "diff-1": 0,
+        "diff-2": 16,
+        "diff-3": 0
+    },
+    "digibyte": {
+        "total_val": 14108,
+        "diff-1": 0,
+        "diff-2": 40,
+        "diff-3": 0
+    },
+    "tezos": {
+        "total_val": 13510,
+        "diff-1": 0,
+        "diff-2": 78,
+        "diff-3": 0
+    },
+    "omisego": {
+        "total_val": 11240,
+        "diff-1": 3,
+        "diff-2": 125,
+        "diff-3": 0
+    },
+    "tether": {
+        "total_val": 10782,
+        "diff-1": 0,
+        "diff-2": 62,
+        "diff-3": 0
+    },
+    "crypto-com-chain": {
+        "total_val": 8284,
+        "diff-1": 0,
+        "diff-2": 81,
+        "diff-3": 0
+    },
+    "ampleforth": {
+        "total_val": 7650,
+        "diff-1": 0,
+        "diff-2": 43,
+        "diff-3": 0
+    },
+    "algorand": {
+        "total_val": 7340,
+        "diff-1": 2,
+        "diff-2": 58,
+        "diff-3": 0
+    },
+    "nano": {
+        "total_val": 6887,
+        "diff-1": 0,
+        "diff-2": 16,
+        "diff-3": 0
+    },
+    "theta-token": {
+        "total_val": 5765,
+        "diff-1": 0,
+        "diff-2": 68,
+        "diff-3": 0
+    },
+    "ocean-protocol": {
+        "total_val": 5756,
+        "diff-1": 4,
+        "diff-2": 81,
+        "diff-3": 0
+    },
+    "akropolis": {
+        "total_val": 5637,
+        "diff-1": 3,
+        "diff-2": 160,
+        "diff-3": 0
+    },
+    "decred": {
+        "total_val": 5473,
+        "diff-1": 0,
+        "diff-2": 12,
+        "diff-3": 0
+    },
+    "ankr": {
+        "total_val": 4954,
+        "diff-1": 0,
+        "diff-2": 42,
+        "diff-3": 0
+    },
+    "decentraland": {
+        "total_val": 4640,
+        "diff-1": 0,
+        "diff-2": 37,
+        "diff-3": 0
+    },
+    "nxt": {
+        "total_val": 4461,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "orion-protocol": {
+        "total_val": 4213,
+        "diff-1": 0,
+        "diff-2": 45,
+        "diff-3": 0
+    },
+    "darwinia-network-native-token": {
+        "total_val": 4159,
+        "diff-1": 0,
+        "diff-2": 49,
+        "diff-3": 0
+    },
+    "aragon": {
+        "total_val": 3885,
+        "diff-1": 0,
+        "diff-2": 115,
+        "diff-3": 0
+    },
+    "tellor": {
+        "total_val": 3788,
+        "diff-1": 0,
+        "diff-2": 15,
+        "diff-3": 0
+    },
+    "thorchain": {
+        "total_val": 3486,
+        "diff-1": 0,
+        "diff-2": 28,
+        "diff-3": 0
+    },
+    "aeon": {
+        "total_val": 3482,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "curve-dao-token": {
+        "total_val": 3428,
+        "diff-1": 0,
+        "diff-2": 73,
+        "diff-3": 0
+    },
+    "dai": {
+        "total_val": 3167,
+        "diff-1": 0,
+        "diff-2": 43,
+        "diff-3": 0
+    },
+    "origintrail": {
+        "total_val": 3079,
+        "diff-1": 0,
+        "diff-2": 30,
+        "diff-3": 0
+    },
+    "dent": {
+        "total_val": 3037,
+        "diff-1": 0,
+        "diff-2": 9,
+        "diff-3": 0
+    },
+    "nimiq-2": {
+        "total_val": 3007,
+        "diff-1": 0,
+        "diff-2": 18,
+        "diff-3": 0
+    },
+    "orchid-protocol": {
+        "total_val": 2977,
+        "diff-1": 0,
+        "diff-2": 32,
+        "diff-3": 0
+    },
+    "namecoin": {
+        "total_val": 2975,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "tomochain": {
+        "total_val": 2876,
+        "diff-1": 0,
+        "diff-2": 22,
+        "diff-3": 0
+    },
+    "numeraire": {
+        "total_val": 2839,
+        "diff-1": 0,
+        "diff-2": 18,
+        "diff-3": 0
+    },
+    "nexo": {
+        "total_val": 2827,
+        "diff-1": 0,
+        "diff-2": 9,
+        "diff-3": 0
+    },
+    "digitalnote": {
+        "total_val": 2695,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tenx": {
+        "total_val": 2641,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "origin-protocol": {
+        "total_val": 2497,
+        "diff-1": 3,
+        "diff-2": 20,
+        "diff-3": 0
+    },
+    "nav-coin": {
+        "total_val": 2407,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentr": {
+        "total_val": 2301,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "nxm": {
+        "total_val": 2300,
+        "diff-1": 0,
+        "diff-2": 37,
+        "diff-3": 0
+    },
+    "aergo": {
+        "total_val": 2266,
+        "diff-1": 0,
+        "diff-2": 23,
+        "diff-3": 0
+    },
+    "aleph": {
+        "total_val": 2249,
+        "diff-1": 0,
+        "diff-2": 16,
+        "diff-3": 0
+    },
+    "defipie": {
+        "total_val": 2228,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "airswap": {
+        "total_val": 2153,
+        "diff-1": 0,
+        "diff-2": 21,
+        "diff-3": 0
+    },
+    "offshift": {
+        "total_val": 2114,
+        "diff-1": 0,
+        "diff-2": 92,
+        "diff-3": 0
+    },
+    "myx-network": {
+        "total_val": 2106,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "tokencard": {
+        "total_val": 2089,
+        "diff-1": 0,
+        "diff-2": 16,
+        "diff-3": 0
+    },
+    "nexus": {
+        "total_val": 1964,
+        "diff-1": 0,
+        "diff-2": 8,
+        "diff-3": 0
+    },
+    "terra-luna": {
+        "total_val": 1932,
+        "diff-1": 0,
+        "diff-2": 22,
+        "diff-3": 0
+    },
+    "aeternity": {
+        "total_val": 1911,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "darwinia-commitment-token": {
+        "total_val": 1832,
+        "diff-1": 0,
+        "diff-2": 28,
+        "diff-3": 0
+    },
+    "aelf": {
+        "total_val": 1792,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "noia-network": {
+        "total_val": 1764,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "digixdao": {
+        "total_val": 1607,
+        "diff-1": 0,
+        "diff-2": 19,
+        "diff-3": 0
+    },
+    "curecoin": {
+        "total_val": 1528,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tierion": {
+        "total_val": 1464,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "okcash": {
+        "total_val": 1461,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nuls": {
+        "total_val": 1424,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "digitalcoin": {
+        "total_val": 1382,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "adzcoin": {
+        "total_val": 1370,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "diamond": {
+        "total_val": 1336,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "anoncoin": {
+        "total_val": 1313,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "novacoin": {
+        "total_val": 1311,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amber": {
+        "total_val": 1305,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "okb": {
+        "total_val": 1296,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "theta-fuel": {
+        "total_val": 1294,
+        "diff-1": 0,
+        "diff-2": 31,
+        "diff-3": 0
+    },
+    "nervos-network": {
+        "total_val": 1291,
+        "diff-1": 0,
+        "diff-2": 11,
+        "diff-3": 0
+    },
+    "nest": {
+        "total_val": 1291,
+        "diff-1": 0,
+        "diff-2": 24,
+        "diff-3": 0
+    },
+    "omni": {
+        "total_val": 1285,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "deutsche-emark": {
+        "total_val": 1200,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amsterdamcoin": {
+        "total_val": 1165,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "telcoin": {
+        "total_val": 1136,
+        "diff-1": 0,
+        "diff-2": 7,
+        "diff-3": 0
+    },
+    "neblio": {
+        "total_val": 1115,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neon-exchange": {
+        "total_val": 1104,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "datamine": {
+        "total_val": 1100,
+        "diff-1": 0,
+        "diff-2": 9,
+        "diff-3": 0
+    },
+    "apollo": {
+        "total_val": 1095,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "daps-token": {
+        "total_val": 1090,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "aeron": {
+        "total_val": 1057,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "agoras": {
+        "total_val": 1037,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tendies": {
+        "total_val": 1020,
+        "diff-1": 0,
+        "diff-2": -2,
+        "diff-3": 0
+    },
+    "ong-social": {
+        "total_val": 1006,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "cryptonite": {
+        "total_val": 981,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "noah-coin": {
+        "total_val": 969,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "nebulas": {
+        "total_val": 960,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "dether": {
+        "total_val": 945,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "nucleus-vision": {
+        "total_val": 929,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "dimecoin": {
+        "total_val": 909,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deepbrain-chain": {
+        "total_val": 890,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "openanx": {
+        "total_val": 883,
+        "diff-1": 2,
+        "diff-2": 26,
+        "diff-3": 0
+    },
+    "adtoken": {
+        "total_val": 868,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-sandbox": {
+        "total_val": 868,
+        "diff-1": 0,
+        "diff-2": 41,
+        "diff-3": 0
+    },
+    "agrello": {
+        "total_val": 835,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "nkn": {
+        "total_val": 832,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dfohub": {
+        "total_val": 812,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "nubits": {
+        "total_val": 811,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alis": {
+        "total_val": 811,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "terracoin": {
+        "total_val": 809,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "newyorkcoin": {
+        "total_val": 804,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "titcoin": {
+        "total_val": 777,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "netcoin": {
+        "total_val": 758,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "devcoin": {
+        "total_val": 751,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "noblecoin": {
+        "total_val": 736,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deeponion": {
+        "total_val": 700,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "te-food": {
+        "total_val": 695,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cybermiles": {
+        "total_val": 680,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "thunder-token": {
+        "total_val": 677,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "dero": {
+        "total_val": 673,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "opal": {
+        "total_val": 661,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nushares": {
+        "total_val": 660,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "daostack": {
+        "total_val": 656,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "one-ledger": {
+        "total_val": 641,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "decent": {
+        "total_val": 634,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptocarbon": {
+        "total_val": 630,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokens-of-babel": {
+        "total_val": 630,
+        "diff-1": 0,
+        "diff-2": 34,
+        "diff-3": 0
+    },
+    "mysterium": {
+        "total_val": 626,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "naga": {
+        "total_val": 625,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "anj": {
+        "total_val": 614,
+        "diff-1": 0,
+        "diff-2": 8,
+        "diff-3": 0
+    },
+    "ong": {
+        "total_val": 600,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "odyssey": {
+        "total_val": 579,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "time-new-bank": {
+        "total_val": 579,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "adshares": {
+        "total_val": 576,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "obits": {
+        "total_val": 573,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thekey": {
+        "total_val": 549,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "nolimitcoin": {
+        "total_val": 547,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "oceanex-token": {
+        "total_val": 547,
+        "diff-1": 0,
+        "diff-2": 9,
+        "diff-3": 0
+    },
+    "cryptosoul": {
+        "total_val": 538,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "cryptokenz": {
+        "total_val": 514,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tixl": {
+        "total_val": 514,
+        "diff-1": 0,
+        "diff-2": 14,
+        "diff-3": 0
+    },
+    "nectar-token": {
+        "total_val": 512,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "digitalbits": {
+        "total_val": 505,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "aave-lend": {
+        "total_val": 498,
+        "diff-1": 0,
+        "diff-2": 8,
+        "diff-3": 0
+    },
+    "tether-gold": {
+        "total_val": 489,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-abyss": {
+        "total_val": 470,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "netbox-coin": {
+        "total_val": 464,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "data": {
+        "total_val": 460,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "oikos": {
+        "total_val": 427,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "advanced-internet-block": {
+        "total_val": 411,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "nix-platform": {
+        "total_val": 409,
+        "diff-1": 0,
+        "diff-2": 13,
+        "diff-3": 0
+    },
+    "nyzo": {
+        "total_val": 409,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "curio": {
+        "total_val": 400,
+        "diff-1": 0,
+        "diff-2": 11,
+        "diff-3": 0
+    },
+    "telos": {
+        "total_val": 400,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amon": {
+        "total_val": 398,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-4th-pillar": {
+        "total_val": 389,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "tokenpay": {
+        "total_val": 387,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thegcccoin": {
+        "total_val": 369,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokenbox": {
+        "total_val": 364,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "digix-gold": {
+        "total_val": 352,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "datum": {
+        "total_val": 351,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ddkoin": {
+        "total_val": 348,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "42-coin": {
+        "total_val": 345,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoping": {
+        "total_val": 344,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "newscrypto-coin": {
+        "total_val": 341,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "open-predict-token": {
+        "total_val": 339,
+        "diff-1": 0,
+        "diff-2": 24,
+        "diff-3": 0
+    },
+    "altcommunity-coin": {
+        "total_val": 330,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "animecoin": {
+        "total_val": 327,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "degenerator": {
+        "total_val": 324,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "terranova": {
+        "total_val": 314,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dfinity-iou": {
+        "total_val": 303,
+        "diff-1": 0,
+        "diff-2": 8,
+        "diff-3": 0
+    },
+    "aave-link": {
+        "total_val": 299,
+        "diff-1": 0,
+        "diff-2": 6,
+        "diff-3": 0
+    },
+    "decentbet": {
+        "total_val": 299,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokenomy": {
+        "total_val": 296,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "nanjcoin": {
+        "total_val": 286,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nos": {
+        "total_val": 285,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "ternio": {
+        "total_val": 269,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "dimcoin": {
+        "total_val": 262,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "opus": {
+        "total_val": 260,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "alibabacoin": {
+        "total_val": 259,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "onix": {
+        "total_val": 253,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "toacoin": {
+        "total_val": 250,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "torcorp": {
+        "total_val": 250,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "orbicular": {
+        "total_val": 249,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neutron": {
+        "total_val": 247,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "netrum": {
+        "total_val": 247,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dforce-token": {
+        "total_val": 245,
+        "diff-1": 0,
+        "diff-2": 9,
+        "diff-3": 0
+    },
+    "decision-token": {
+        "total_val": 244,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "theresa-may-coin": {
+        "total_val": 243,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ormeuscoin": {
+        "total_val": 235,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dacc": {
+        "total_val": 232,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dextoken-governance": {
+        "total_val": 232,
+        "diff-1": 0,
+        "diff-2": 60,
+        "diff-3": 0
+    },
+    "cvcoin": {
+        "total_val": 230,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "desire": {
+        "total_val": 228,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nusd": {
+        "total_val": 227,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "defichain": {
+        "total_val": 225,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "cryptopay": {
+        "total_val": 224,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "netkoin": {
+        "total_val": 223,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptonex": {
+        "total_val": 217,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digitalprice": {
+        "total_val": 217,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "niobio-cash": {
+        "total_val": 216,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alphacat": {
+        "total_val": 215,
+        "diff-1": 0,
+        "diff-2": 16,
+        "diff-3": 0
+    },
+    "crystal-clear": {
+        "total_val": 213,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oraclechain": {
+        "total_val": 213,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "all-sports": {
+        "total_val": 206,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "open-platform": {
+        "total_val": 201,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "mywish": {
+        "total_val": 200,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "telos-coin": {
+        "total_val": 200,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "odem": {
+        "total_val": 200,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dao-casino": {
+        "total_val": 199,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aircoins": {
+        "total_val": 197,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "daex": {
+        "total_val": 196,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "aidos-kuneen": {
+        "total_val": 195,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "404": {
+        "total_val": 194,
+        "diff-1": 0,
+        "diff-2": -2,
+        "diff-3": 0
+    },
+    "toko": {
+        "total_val": 193,
+        "diff-1": 0,
+        "diff-2": 6,
+        "diff-3": 0
+    },
+    "opacity": {
+        "total_val": 191,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "dapp-com": {
+        "total_val": 190,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aichain": {
+        "total_val": 189,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dapp": {
+        "total_val": 185,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "newton-coin-project": {
+        "total_val": 182,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "defis": {
+        "total_val": 180,
+        "diff-1": 0,
+        "diff-2": -2,
+        "diff-3": 0
+    },
+    "original-crypto-coin": {
+        "total_val": 180,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dcorp": {
+        "total_val": 179,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thorecoin": {
+        "total_val": 178,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "akroma": {
+        "total_val": 178,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "allsafe": {
+        "total_val": 178,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "davies": {
+        "total_val": 176,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "ai-doctor": {
+        "total_val": 174,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokenclub": {
+        "total_val": 174,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "origo": {
+        "total_val": 173,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "cryptocricketclub": {
+        "total_val": 172,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nekonium": {
+        "total_val": 170,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "arbitraging": {
+        "total_val": 170,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oneroot-network": {
+        "total_val": 166,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "delphy": {
+        "total_val": 163,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "nasdacoin": {
+        "total_val": 160,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "napoleon-x": {
+        "total_val": 158,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "degenvc": {
+        "total_val": 157,
+        "diff-1": 0,
+        "diff-2": 6,
+        "diff-3": 0
+    },
+    "aerotoken": {
+        "total_val": 156,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "dalecoin": {
+        "total_val": 154,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "dadi": {
+        "total_val": 148,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "titan-coin": {
+        "total_val": 148,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "3x-long-ethereum-token": {
+        "total_val": 145,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amoveo": {
+        "total_val": 145,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "neurotoken": {
+        "total_val": 142,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "note-blockchain": {
+        "total_val": 142,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "debitum-network": {
+        "total_val": 142,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "dascoin": {
+        "total_val": 141,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thorenext": {
+        "total_val": 141,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digimax": {
+        "total_val": 141,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokenize-xchange": {
+        "total_val": 140,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "defi-nation-signals-dao": {
+        "total_val": 140,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "curve-fi-ydai-yusdc-yusdt-ytusd": {
+        "total_val": 139,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "orbs": {
+        "total_val": 139,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "nexty": {
+        "total_val": 138,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-champcoin": {
+        "total_val": 138,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "datx": {
+        "total_val": 137,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aludra-network": {
+        "total_val": 137,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "top-network": {
+        "total_val": 136,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "araw-token": {
+        "total_val": 135,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "cubits": {
+        "total_val": 134,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nerva": {
+        "total_val": 134,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cube": {
+        "total_val": 134,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "devault": {
+        "total_val": 134,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cybercoin": {
+        "total_val": 132,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "7eleven": {
+        "total_val": 131,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "darico": {
+        "total_val": 130,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "thopi-services": {
+        "total_val": 129,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cyberfm": {
+        "total_val": 128,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aga-token": {
+        "total_val": 128,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "neutrino": {
+        "total_val": 127,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neumark": {
+        "total_val": 127,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "natmin-pure-escrow": {
+        "total_val": 127,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "abcc-token": {
+        "total_val": 127,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cybervein": {
+        "total_val": 126,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "tokyo": {
+        "total_val": 125,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoworldnews": {
+        "total_val": 124,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tigereum": {
+        "total_val": 123,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "decentralized-asset-trading-platform": {
+        "total_val": 123,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digidinar-token": {
+        "total_val": 123,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cusd-currency": {
+        "total_val": 122,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-fantasy-sports": {
+        "total_val": 119,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "nolecoin": {
+        "total_val": 118,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dash-green": {
+        "total_val": 118,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "defi-omega": {
+        "total_val": 118,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alloy-project": {
+        "total_val": 118,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tcash": {
+        "total_val": 117,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tnc-coin": {
+        "total_val": 117,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "devery": {
+        "total_val": 117,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "3x-short-ethereum-token": {
+        "total_val": 116,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aerum": {
+        "total_val": 112,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "netko": {
+        "total_val": 111,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "agricoin": {
+        "total_val": 110,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nextexchange": {
+        "total_val": 108,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aditus": {
+        "total_val": 106,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-currency-analytics": {
+        "total_val": 106,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nervenetwork": {
+        "total_val": 105,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "nft-protocol": {
+        "total_val": 104,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "no-bs-crypto": {
+        "total_val": 103,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentralized-currency-assets": {
+        "total_val": 103,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neetcoin": {
+        "total_val": 102,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oduwa-coin": {
+        "total_val": 102,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "apis": {
+        "total_val": 100,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-eos-token": {
+        "total_val": 99,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "newton-project": {
+        "total_val": 99,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "dcs-token": {
+        "total_val": 99,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "op-coin": {
+        "total_val": 99,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "afrodex-labs-token": {
+        "total_val": 98,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nilu": {
+        "total_val": 97,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thar-token": {
+        "total_val": 97,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ailink-token": {
+        "total_val": 97,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thorecash": {
+        "total_val": 97,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dexage": {
+        "total_val": 97,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "analysx": {
+        "total_val": 96,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nitro": {
+        "total_val": 95,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "agavecoin": {
+        "total_val": 95,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tigercash": {
+        "total_val": 93,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tolar": {
+        "total_val": 92,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "808ta-token": {
+        "total_val": 91,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tidex-token": {
+        "total_val": 91,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decash": {
+        "total_val": 90,
+        "diff-1": 0,
+        "diff-2": 7,
+        "diff-3": 0
+    },
+    "agetron": {
+        "total_val": 90,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dexa-coin": {
+        "total_val": 89,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "terra-krw": {
+        "total_val": 87,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "deex": {
+        "total_val": 86,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neurochain": {
+        "total_val": 85,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "ammbr": {
+        "total_val": 84,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-money-bits": {
+        "total_val": 84,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "mytoken": {
+        "total_val": 83,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tenup": {
+        "total_val": 83,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-transfer-token": {
+        "total_val": 82,
+        "diff-1": 0,
+        "diff-2": 9,
+        "diff-3": 0
+    },
+    "neodiamond": {
+        "total_val": 81,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-bitcoin-token": {
+        "total_val": 81,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cybermusic": {
+        "total_val": 81,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aax-token": {
+        "total_val": 81,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "theworldsamine": {
+        "total_val": 81,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neural-protocol": {
+        "total_val": 79,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tbtc": {
+        "total_val": 79,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "airbloc-protocol": {
+        "total_val": 79,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deltachain": {
+        "total_val": 79,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-bitcoin-token": {
+        "total_val": 78,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "darkpaycoin": {
+        "total_val": 78,
+        "diff-1": 0,
+        "diff-2": 4,
+        "diff-3": 0
+    },
+    "alchemint": {
+        "total_val": 78,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "topchain": {
+        "total_val": 77,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cubiex": {
+        "total_val": 76,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "darwinia-crab-network": {
+        "total_val": 76,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptyk": {
+        "total_val": 75,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ticketscoin": {
+        "total_val": 75,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-xrp-token": {
+        "total_val": 73,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "teslafunds": {
+        "total_val": 73,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-eth": {
+        "total_val": 73,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "cryptobuyer-token": {
+        "total_val": 72,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "thingschain": {
+        "total_val": 72,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "omnitude": {
+        "total_val": 72,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alpha-coin": {
+        "total_val": 72,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "niobium-coin": {
+        "total_val": 71,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "degenerate-platform": {
+        "total_val": 71,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "daneel": {
+        "total_val": 71,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "origin-sport": {
+        "total_val": 71,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alax": {
+        "total_val": 70,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tls-token": {
+        "total_val": 70,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-chainlink-token": {
+        "total_val": 69,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "nibbleclassic": {
+        "total_val": 69,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "newdex-token": {
+        "total_val": 69,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "darklisk": {
+        "total_val": 68,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deepcloud-ai": {
+        "total_val": 68,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "odin-blockchain": {
+        "total_val": 68,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alchemy": {
+        "total_val": 68,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "curium": {
+        "total_val": 67,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-usdc": {
+        "total_val": 67,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "decentradex": {
+        "total_val": 67,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "dex": {
+        "total_val": 67,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "advertisingcoin": {
+        "total_val": 66,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "999": {
+        "total_val": 66,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "omega": {
+        "total_val": 66,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ndex": {
+        "total_val": 65,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "defind": {
+        "total_val": 65,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nper": {
+        "total_val": 64,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tiktok-coin": {
+        "total_val": 64,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nyxcoin": {
+        "total_val": 64,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "custom-contract-network": {
+        "total_val": 63,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-sports": {
+        "total_val": 62,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentralized-advertising": {
+        "total_val": 62,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "darsek": {
+        "total_val": 61,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "afrodex": {
+        "total_val": 61,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ai-crypto": {
+        "total_val": 60,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "one": {
+        "total_val": 60,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "888tron": {
+        "total_val": 59,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "aezora": {
+        "total_val": 58,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tekcoin": {
+        "total_val": 58,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-snx": {
+        "total_val": 58,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "decentralized-crypto-token": {
+        "total_val": 58,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "afro": {
+        "total_val": 57,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aml-bitcoin": {
+        "total_val": 57,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptodezirecash": {
+        "total_val": 56,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-dai": {
+        "total_val": 56,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "777-bingo": {
+        "total_val": 56,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "datarius-cryptobank": {
+        "total_val": 56,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alex": {
+        "total_val": 56,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "token-pocket": {
+        "total_val": 56,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neuromorphic-io": {
+        "total_val": 55,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nevacoin": {
+        "total_val": 55,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "air-basic": {
+        "total_val": 55,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ombre": {
+        "total_val": 55,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "threefold-token": {
+        "total_val": 55,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "opet-foundation": {
+        "total_val": 55,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "abitshadow-token": {
+        "total_val": 54,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "darma-cash": {
+        "total_val": 53,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oasis-city": {
+        "total_val": 53,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oceanchain": {
+        "total_val": 53,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ormeus-ecosystem": {
+        "total_val": 53,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "crypto-user-base": {
+        "total_val": 52,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crytrex-token": {
+        "total_val": 52,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "orium": {
+        "total_val": 52,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nasgo": {
+        "total_val": 50,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptobosscoin": {
+        "total_val": 49,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "narrative": {
+        "total_val": 49,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dash-diamond": {
+        "total_val": 49,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "temco": {
+        "total_val": 49,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aiascoin": {
+        "total_val": 48,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nuggets": {
+        "total_val": 48,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "themis": {
+        "total_val": 48,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "all-best-ico": {
+        "total_val": 48,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thore-exchange": {
+        "total_val": 48,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "topb": {
+        "total_val": 48,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tourist-review-token": {
+        "total_val": 48,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "npccoin": {
+        "total_val": 47,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "databroker-dao": {
+        "total_val": 47,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "davinci-coin": {
+        "total_val": 47,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nework": {
+        "total_val": 47,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentralized-machine-learning": {
+        "total_val": 47,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ocrv": {
+        "total_val": 47,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "debitcoin": {
+        "total_val": 46,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ohm-coin": {
+        "total_val": 46,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digitalassets": {
+        "total_val": 46,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "nam-token": {
+        "total_val": 45,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoflow": {
+        "total_val": 45,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "a1-coin": {
+        "total_val": 45,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-dash": {
+        "total_val": 45,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "anchor": {
+        "total_val": 45,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digi-dinar": {
+        "total_val": 45,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "orbyt-token": {
+        "total_val": 45,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "title-network": {
+        "total_val": 45,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-bitcoin-sv-token": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "aeryus": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "dash-platinum": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amo": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deflacoin": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "aitheon": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "aladdin": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ondori": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digifinextoken": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digimoney": {
+        "total_val": 44,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptotipsfr": {
+        "total_val": 43,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cutcoin": {
+        "total_val": 43,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "new808coin": {
+        "total_val": 43,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nioshares": {
+        "total_val": 43,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "defis-network": {
+        "total_val": 43,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "delion": {
+        "total_val": 43,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptonationz": {
+        "total_val": 42,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-chainlink-token": {
+        "total_val": 42,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "thrive": {
+        "total_val": 42,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thingsoperatingsystem": {
+        "total_val": 41,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ak12": {
+        "total_val": 41,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-rand": {
+        "total_val": 41,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "cryptocean": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cybergame": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cyber-movie-chain": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-xrp-token": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nulink": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "obitan-chain": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-tokenized-bitcoin": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "decoin": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ocdai": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokendesk": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "apm-coin": {
+        "total_val": 40,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "mytvchain": {
+        "total_val": 39,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "3x-long-bnb-token": {
+        "total_val": 39,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "aquachain": {
+        "total_val": 39,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "altmarkets-coin": {
+        "total_val": 39,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-cardano-token": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-tezos-token": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "3x-short-eos-token": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "newyork-exchange": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-knc": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "newsolution": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "onyxpay": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alt-estate": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amaten": {
+        "total_val": 38,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "neal": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ndn-link": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nosturis": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tethergo": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nova-token": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokpie": {
+        "total_val": 37,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "ddmcoin": {
+        "total_val": 36,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "diamond-platform-token": {
+        "total_val": 36,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "animalitycoin": {
+        "total_val": 36,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amazing-unit": {
+        "total_val": 36,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptonodes": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptrust": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ngot": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nimfex-token": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "apix": {
+        "total_val": 35,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cybereits": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "502-bad-gateway-token": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-tusd": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "olive": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokengo": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "arbidex": {
+        "total_val": 34,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptofranc": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-litecoin-token": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "4xbit": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "davecoin": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "open-source-chain": {
+        "total_val": 33,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cstl": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-trx-token": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nuclear-bomb": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decenturion": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "airpod": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "99masternodes": {
+        "total_val": 32,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-bitcoin-cash-token": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-matic-token": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crystal-token": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptobucks": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "native-utility-token": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "nextdao": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nairax-ico": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "africa-trading-chain": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "noxbox": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "okschain": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deltaexcoin": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "on-live": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "torq-coin": {
+        "total_val": 31,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptohashtank-coin": {
+        "total_val": 30,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ctc": {
+        "total_val": 30,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-swipe-token": {
+        "total_val": 30,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "3x-short-bnb-token": {
+        "total_val": 30,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deligence": {
+        "total_val": 30,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alliance-cargo-direct": {
+        "total_val": 30,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aquila-protocol": {
+        "total_val": 30,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cse-token": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ninjacoin": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "3x-short-tezos-token": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "agrolot": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thrivechain": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-village-accelerator": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ooobtc-token": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "octcoin": {
+        "total_val": 29,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ndau": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nofakecoin": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neoworld-cash": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aftershock": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "daikicoin": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "demetracoin": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-euro": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "torchain": {
+        "total_val": 28,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "cts-coin": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nestree": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dacsee": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nashcash": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ninsa-b-token": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoworld-vip": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "temtem": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nyerium": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "delighttoken": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "allbi-cash": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "one-world-coin": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "omotenashicoin": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "app-alliance-association": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dequant": {
+        "total_val": 27,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-copyright-system": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "3x-short-bitcoin-sv-token": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "myteencoin": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nolewater": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "orlycoin": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "topinvestmentcoin": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "traders-token": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "apple-network": {
+        "total_val": 26,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-cosmos-token": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "3x-long-tomochain-token": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neutritium": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "noku": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "northern": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-mana": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nova": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tercet-network": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-whale-of-blockchain": {
+        "total_val": 25,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "affil-coin": {
+        "total_val": 24,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tewken": {
+        "total_val": 24,
+        "diff-1": 0,
+        "diff-2": 3,
+        "diff-3": 0
+    },
+    "8x8-protocol": {
+        "total_val": 24,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-usdt": {
+        "total_val": 24,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "orbit-chain": {
+        "total_val": 24,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "allive": {
+        "total_val": 24,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoyen": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptosolartech": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptonia-poker": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "netkoin-liquid": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nahmii": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "adv-coin": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tenxcoin": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-movement": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "data-shield-coin": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "onex-network": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokenstars-ace": {
+        "total_val": 23,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nerves": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nacho-coin": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "4a-coin": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokok": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tonestra": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 5,
+        "diff-3": 0
+    },
+    "torex": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "diruna": {
+        "total_val": 22,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nami-trade": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "navibration": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "andes-coin": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thunderbolt-coin": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "albos": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "odin-token": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tl-coin": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-ticks": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oratium": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "apetcoin": {
+        "total_val": 21,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "6ix9ine-chain": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-tomochain-token": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-mkr": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thanatos": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aaa-coin": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentralized-vulnerability-platform": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "online-expo": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "optitoken": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "touriva": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tradcoin": {
+        "total_val": 20,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-shitcoin-index-token": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "adsbywifi": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "agouti": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "terragreen": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "data-saver-coin": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thorncoin": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "almace-shards": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "onlexpa-token": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ala": {
+        "total_val": 19,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoenergy": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptocurrency": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "mythical-token": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neblidex": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neobitcoin": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "3x-long-bitmax-token-token": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "netm": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoxygen": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-cardano-token": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-hash-speed": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "ngin": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "apex": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "apex-2": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "topia": {
+        "total_val": 18,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-dogecoin-token": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-algorand-token": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "next": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dawn-protocol": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aliencoin": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tictalk": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decimated": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokentuber": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digipharm": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "opennity": {
+        "total_val": 17,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoverificationcoin": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cybr-token": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-litecoin-token": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "terra-sdt": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-trx-token": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thor-digital-application-system": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amazonacoin": {
+        "total_val": 16,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptolandy": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-global-bank": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-dragon-index-token": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-price-index": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "custody-token": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-pax-gold-token": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-bitcoin-cash-token": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "new-power-coin": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ndex-network-coin": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "africunia-bank": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nnb-token": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "noiz-chain": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "abf-comva": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dax416": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-ethereum-classic-token": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-bat": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "all-for-one-business": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ti-value": {
+        "total_val": 15,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "csc-jackpot": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "daatty-coin": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-dmm-governance-token": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 2,
+        "diff-3": 0
+    },
+    "new-silk-road-brics-token": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-shitcoin-index-token": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "novachain": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dash-cash": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oculor": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oilage": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentralway": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ocusdc": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "openbit": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "orient-walt": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dice-finance": {
+        "total_val": 14,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "newstoken": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nifexcoin": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-cosmos-token": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "abc-chain": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thetimeschaincoin": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "observer-coin": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amis": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aladdin-galaxy": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "time-coin": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-gold-token": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "optical-network": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "orbit": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "apot": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "traceto": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "antra": {
+        "total_val": 13,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-bilira-token": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ctagtoken": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crysto": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-okb-token": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cyberway": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "news24": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dappercoin": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-okb-token": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-tether-token": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tensorcoin": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ai-predicting-ecosystem": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nuvo-cash": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amond": {
+        "total_val": 12,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "crypto-coupons-market": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-ethereum-classic-token": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nestegg-coin": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-matic-token": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nokencoin": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-exchange-token-index-token": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thc": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thaler": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "agrotechfarm": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tchain": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ntok": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-london-football-exchange": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amuse": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thinkcoin": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "og": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "titanium-network": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digiverse": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ormeus-cash": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tooktook": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aos": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tradecoin-token": {
+        "total_val": 11,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "curadai": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "currency-network": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-dogecoin-token": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-altcoin-index-token": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "advertising-token": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-bitmax-token-token": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cybex": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aeur": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "telemart-pro": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tena": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "datakyc": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tianya-token": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentralized-data-assets-management": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "d-community": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "toda-note": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tomainfo": {
+        "total_val": 10,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "crypto-price-platform": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-tether-token": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nfx-coin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "newbi": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tee-coin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-rep": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tfchain": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "data-link-base": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-exchange-token-index-token": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aiot-trusted": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amun-bitcoin-3x-daily-long": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "delchain": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nrv-coin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oas-chain": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "day": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ohwe": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nullex": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "allmedia-coin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ally": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alp-coin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-wallet": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digitalusd": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tokio-coin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "agrinovuscoin": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-huobi-token-token": {
+        "total_val": 9,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-leo-token": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-heroes-token": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "mytracknet-token": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "adrenaline-chain": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": -1,
+        "diff-3": 0
+    },
+    "tft-network": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "afri-union-coin": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptowarriorz": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "aave-busd": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nutcoin": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "data-delivery-network": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-global-index-chain": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amix": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thx": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ode": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "anonymous-coin": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentralizecurrency": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "olestars": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tibab": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tidebit-token": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "token-planets": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alldex-alliance": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "annual-coin": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alphanu": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tradekax": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "towerbee": {
+        "total_val": 8,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptorg-token": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptospot-token": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "naka-bodhi-token": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptotask": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nemocoin": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "new-media-technology": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nexxo": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tesra": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nms-token": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoprofile": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "techshares": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ahatoken": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aguard": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nss-coin": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tcoc": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decentrahub-coin": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tien-blockchain": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dalichain": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "torocus-token": {
+        "total_val": 7,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptogcoin": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "naer": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-theta-network-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-dragon-index-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "culture-ticket-chain": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dapplinks": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ncov": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-pax-gold-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "newland": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dangx": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-leo-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-swipe-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nuclum": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "theholyrogercoin": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amun-ether-3x-daily-short": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "time-space-chain": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "timvi": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tobigca": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "toka": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "onefinbank-coin": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ansobit-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "destiny-success": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "api": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tothe-moon": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aqt-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "apexel-natural-nano": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dforce-goldx": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "arbitool-token": {
+        "total_val": 6,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neexstar": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "myubi": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cspc": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cuda": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-bilira-token": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dagontoken": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "520": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "7chain": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-huobi-token-token": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nynja": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "data-exchange": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thorium": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amun-ether-3x-daily-long": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "demos": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "anchor-neural-world-token": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tidepay": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "time-honored-brand-chain": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "all-bit-gambling-shares-chain": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "decurian": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "onebitearn": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "all-starcommunity-coin": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deoncash": {
+        "total_val": 5,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptoforex": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nantrade": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-compound-token-token": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-maker-token": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-midcap-index-token": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-dmm-governance-token": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "3x-long-balancer-token": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nevula": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "neo-smart-energy": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "new-pay-five": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nerve": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "north-star-chain": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 1,
+        "diff-3": 0
+    },
+    "nmitoken": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-midcap-index-token": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "afti": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "telokanda": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "agricultural-trade-chain": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "novem-gold-token": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-node": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amun-bitcoin-3x-daily-short": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aivia": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dcon": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "okubit": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oddo-coin": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alphadome": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-fund-coin": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alpha-golf": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "timelockcoin": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dengba-planet": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dexzbitz": {
+        "total_val": 4,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptocvda": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptocurrency-business-token": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nature": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-vechain-token": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-defi-index-token": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nexdax": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tfe": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "agr-tokens": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thecash": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "data-transaction": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "oasisbloc": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "data-trade-on-demand-platform": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "davion": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aiw-token": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thinkium": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "one-genesis": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "digital-wealth-node": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tools-chain": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "trader-cash": {
+        "total_val": 3,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-kyber-network-token": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nerthus": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptonewsnet": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-compound-token-token": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nium": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tfund": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nitro-platform-token": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "nkcl": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "advisorshares-pure-cannabis-etf": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thomson-reuters": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "thepowercoin": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "anarcheth": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "delirium": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "tianya-diamond": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "algory": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "token-cashpay": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alrightcoin": {
+        "total_val": 2,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-holding-frank-token": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cryptogalaxy": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "natizet-network": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-balancer-token": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "crypto-chain": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-privacy-index-token": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "texttron": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "ad-pay-token": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-maker-token": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-theta-network-token": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "the-scotts-miracle-gro-company": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amodule-network": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "teradyne": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "deere": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "denchcoin": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "amundi": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "allergan": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alnylam-pharmaceuticals-inc": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alliance-x-trading": {
+        "total_val": 1,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-compound-usdt-token": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-long-tether-gold-token": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "cultural-heritage-token": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-compound-usdt-token": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "advance-auto-parts": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-kyber-network-token": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-vechain-token": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "3x-short-tether-gold-token": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "aave-wbtc": {
+        "total_val": 0
+    },
+    "ted": {
+        "total_val": 0
+    },
+    "tera-smart-money": {
+        "total_val": 0
+    },
+    "aidus": {
+        "total_val": 0
+    },
+    "tepleton": {
+        "total_val": 0
+    },
+    "3x-long-privacy-index-token": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dforce-usdc": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "dforce-usdt": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    },
+    "alligator-fractal-set": {
+        "total_val": 0,
+        "diff-1": 0,
+        "diff-2": 0,
+        "diff-3": 0
+    }
+}

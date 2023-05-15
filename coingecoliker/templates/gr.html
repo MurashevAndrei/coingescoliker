@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      {% load static %}
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+    <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+    <link type='text/css' rel="stylesheet" href="{% static 'css/style.css' %}">
+  </head>
+  <body>
+     {{ form.as_p }}
+    <div class="ct-chart ct-golden-section" id="{{coin.coin}}"></div>
+
+
+<script>
+    var options = {
+      width: 500,
+      height: 400,
+      seriesLineDistance: 15,
+      //fullWidth: true,
+      chartPadding: {
+      right: 40
+      }
+    };
+
+
+    // Инициализируем линейный график через контейнер с ID chart1
+    new Chartist.Line('#{{coin.coin}}', {
+      labels: {{dates|safe}},
+      //labels: ['Sun', 'Mon', 'Tue'],
+      series: [{{data}}]
+    }, options);
+
+
+</script>
+  </body>
+</html>

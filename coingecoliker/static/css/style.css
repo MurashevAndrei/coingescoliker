@@ -1,0 +1,37 @@
+form {padding-bottom: 10px;
+}
+.col-sm-6 {
+	padding: 0;
+}
+#total {
+	margin-bottom: 10px;
+}
+#total input {
+	width: 90px;
+}
+.menu {
+	margin: 20px;
+}
+.js-example-basic-multiple {
+	width: 100%
+}
+#hour input {
+	width: 60px
+}
+.ct-series-a .ct-line{
+		stroke: green;
+}
+.ct-line {
+    stroke-width: 1px;
+		stroke: green;
+	}
+.ct-point {
+    stroke-width: 0;
+	}
+
+.toggle-vis {
+	font-size: 16px;
+}
+#table .table .dataTable .no-footer {
+	width: 100%;
+}

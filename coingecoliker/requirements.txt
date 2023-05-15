@@ -1,0 +1,14 @@
+bs4
+lxml
+aiohttp
+gunicorn
+django-heroku
+pymongo
+pymongo[srv]
+dnspython
+
+requests
+tor
+stem
+fake_useragent
+aiohttp_socks

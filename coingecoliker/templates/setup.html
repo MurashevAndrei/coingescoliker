@@ -1,0 +1,133 @@
+{% extends "base.html" %}
+
+{% block head%}
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+  <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+{% endblock %}
+{% block h1 %}
+	  <h1> Alert setup</h1>
+{% endblock %}
+
+{%block content %}
+<div class='row'>
+  <div class='col-md-9'>
+<form action='' method='post'>
+      {% csrf_token %}
+<div class='row'>
+<div class='col-md-4 col-sm-3'>
+   <p>Change likes last 24 hours: </p>
+</div>
+<div class='col-md-4 col-sm-2'>
+  <div class="form-group">
+   <select class="form-control" name="status_likes_change24">
+     <option name="more" selected>more</option>
+     <option name="less">less</option>
+   </select>
+ </div>
+ </div>
+ <div class='col-md-4 col-sm-2'>
+   <input type="text" placeholder="integer" id="likes_change24" name="likes_change24">
+  </div>
+  </div>
+  <div class='row'>
+  <div class='col-md-4 col-sm-3'>
+   <p>Market cap:</p>
+  </div>
+  <div class='col-md-4 col-sm-2'>
+  <div class="form-group">
+   <select class="form-control" name="status_market_cap">
+     <option name="more" selected>more</option>
+     <option name="less">less</option>
+   </select>
+ </div>
+ </div>
+ <div class='col-md-4 col-sm-2'>
+   <input type="text" placeholder="integer" id="market_cap" name="market_cap">
+</div>
+     </div>
+   <div class='row'>
+   <div class='col-md-4 col-sm-3'>
+   <p>Twitter followers amount:</p>
+   </div>
+   <div class='col-md-4 col-sm-2'>
+   <div class="form-group">
+    <select class="form-control" name="status_tfollowers_amount">
+      <option name="more" selected>more</option>
+      <option name="less">less</option>
+    </select>
+   </div>
+   </div>
+   <div class='col-md-4 col-sm-2'>
+      <input type="text" placeholder="integer" id="tfollowers_amount" name="tfollowers_amount">
+  </div>
+       </div>
+   <div class='row'>
+   <div class='col-md-4 col-sm-3'>
+   <p>Price change percentage last 24 hours:</p>
+   </div>
+   <div class='col-md-4 col-sm-2'>
+   <div class="form-group">
+    <select class="form-control" name="status_price_change_percentage_24h">
+      <option name="more" selected>more</option>
+      <option name="less">less</option>
+    </select>
+   </div>
+   </div>
+   <div class='col-md-4 col-sm-2'>
+        <input type="text" placeholder="float" id="price_change_percentage_24h" name="price_change_percentage_24h">
+    </div>
+     </div>
+   <div class='row'>
+   <div class='col-md-4 col-sm-3'>
+   <p>Trading volume last 24 hours:</p>
+   </div>
+   <div class='col-md-4 col-sm-2'>
+   <div class="form-group">
+    <select class="form-control" name="status_24_hour_trading_volume">
+      <option name="more" selected>more</option>
+      <option name="less">less</option>
+    </select>
+   </div>
+   </div>
+   <div class='col-md-4 col-sm-2'>
+      <input type="text" placeholder="integer" id="24_hour_trading_volume" name="24_hour_trading_volume">
+    </div>
+     </div>
+   <div class='row'>
+   <div class='col-md-4 col-sm-3'>
+   <p>Release date:</p>
+   </div>
+   <div class='col-md-4 col-sm-2'>
+   <div class="form-group">
+    <select class="form-control" name="status_date_release">
+      <option name="more" selected>more</option>
+      <option name="less">less</option>
+    </select>
+   </div>
+   </div>
+   <div class='col-md-4 col-sm-2'>
+      <input type="text" placeholder="2021-01-01" id="date_release" name="date_release">
+      </div>
+      </div>
+
+   <div class='row'>
+   <div class='col-md-4 col-sm-3'>
+   <button type="submit" name="setup" class="btn btn-primary" id="setup">Setup</button>
+</div>
+</div>
+
+
+</form>
+</div>
+<div class='col-md-3'>
+  <h4>Current setup settings:</h4>
+  {% for key, val in alert_sittings.items %}
+    <p>{{key}} : {{val}}</p>
+  {%endfor%}
+
+</div>
+</div>
+
+
+
+{% endblock %}

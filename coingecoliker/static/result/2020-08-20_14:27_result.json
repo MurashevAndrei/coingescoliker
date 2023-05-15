@@ -1,0 +1,550 @@
+{
+    "dash": {
+        "total_val": 30018,
+        "different_val": 23
+    },
+    "coti": {
+        "total_val": 2950,
+        "different_val": 30
+    },
+    "dai": {
+        "total_val": 2901,
+        "different_val": 37
+    },
+    "numeraire": {
+        "total_val": 2618,
+        "different_val": 14
+    },
+    "counterparty": {
+        "total_val": 1704,
+        "different_val": 1
+    },
+    "nxm": {
+        "total_val": 1649,
+        "different_val": 120
+    },
+    "nuls": {
+        "total_val": 1382,
+        "different_val": 3
+    },
+    "novacoin": {
+        "total_val": 1311,
+        "different_val": -2
+    },
+    "contentos": {
+        "total_val": 912,
+        "different_val": 0
+    },
+    "nucleus-vision": {
+        "total_val": 903,
+        "different_val": 1
+    },
+    "nubits": {
+        "total_val": 811,
+        "different_val": 0
+    },
+    "nushares": {
+        "total_val": 660,
+        "different_val": 0
+    },
+    "conceal": {
+        "total_val": 490,
+        "different_val": 4
+    },
+    "data": {
+        "total_val": 446,
+        "different_val": 2
+    },
+    "cortex": {
+        "total_val": 411,
+        "different_val": 0
+    },
+    "datum": {
+        "total_val": 348,
+        "different_val": 2
+    },
+    "ddkoin": {
+        "total_val": 345,
+        "different_val": 0
+    },
+    "42-coin": {
+        "total_val": 343,
+        "different_val": 1
+    },
+    "coronacoin": {
+        "total_val": 284,
+        "different_val": 0
+    },
+    "nos": {
+        "total_val": 272,
+        "different_val": 3
+    },
+    "aave-link": {
+        "total_val": 254,
+        "different_val": 2
+    },
+    "cotrader": {
+        "total_val": 209,
+        "different_val": 1
+    },
+    "comsa": {
+        "total_val": 202,
+        "different_val": 0
+    },
+    "condensate": {
+        "total_val": 196,
+        "different_val": 0
+    },
+    "404": {
+        "total_val": 196,
+        "different_val": 0
+    },
+    "daex": {
+        "total_val": 192,
+        "different_val": 1
+    },
+    "npcoin": {
+        "total_val": 183,
+        "different_val": 0
+    },
+    "dcorp": {
+        "total_val": 179,
+        "different_val": 0
+    },
+    "davies": {
+        "total_val": 174,
+        "different_val": 0
+    },
+    "dapp": {
+        "total_val": 168,
+        "different_val": 11
+    },
+    "compound-usd-coin": {
+        "total_val": 155,
+        "different_val": 1
+    },
+    "dalecoin": {
+        "total_val": 153,
+        "different_val": 0
+    },
+    "dadi": {
+        "total_val": 145,
+        "different_val": 0
+    },
+    "titan-coin": {
+        "total_val": 143,
+        "different_val": 0
+    },
+    "note-blockchain": {
+        "total_val": 141,
+        "different_val": 0
+    },
+    "dascoin": {
+        "total_val": 138,
+        "different_val": 0
+    },
+    "datx": {
+        "total_val": 134,
+        "different_val": 0
+    },
+    "datawallet": {
+        "total_val": 126,
+        "different_val": 1
+    },
+    "darico": {
+        "total_val": 122,
+        "different_val": 4
+    },
+    "counos-coin": {
+        "total_val": 118,
+        "different_val": 0
+    },
+    "dav": {
+        "total_val": 98,
+        "different_val": 0
+    },
+    "contentbox": {
+        "total_val": 96,
+        "different_val": 0
+    },
+    "compound-basic-attention-token": {
+        "total_val": 89,
+        "different_val": 0
+    },
+    "consensus": {
+        "total_val": 89,
+        "different_val": 1
+    },
+    "808ta-token": {
+        "total_val": 88,
+        "different_val": 0
+    },
+    "compound-0x": {
+        "total_val": 79,
+        "different_val": 1
+    },
+    "compound-usdt": {
+        "total_val": 76,
+        "different_val": 0
+    },
+    "concertvr": {
+        "total_val": 75,
+        "different_val": 0
+    },
+    "couchain": {
+        "total_val": 73,
+        "different_val": 0
+    },
+    "daneel": {
+        "total_val": 71,
+        "different_val": 0
+    },
+    "darklisk": {
+        "total_val": 68,
+        "different_val": 0
+    },
+    "999": {
+        "total_val": 66,
+        "different_val": 0
+    },
+    "4new": {
+        "total_val": 65,
+        "different_val": 0
+    },
+    "aave-eth": {
+        "total_val": 61,
+        "different_val": 0
+    },
+    "darwinia-crab-network": {
+        "total_val": 60,
+        "different_val": 1
+    },
+    "aave-usdc": {
+        "total_val": 58,
+        "different_val": 0
+    },
+    "888tron": {
+        "total_val": 58,
+        "different_val": 0
+    },
+    "777-bingo": {
+        "total_val": 56,
+        "different_val": 0
+    },
+    "datarius-cryptobank": {
+        "total_val": 56,
+        "different_val": 0
+    },
+    "abitshadow-token": {
+        "total_val": 53,
+        "different_val": 0
+    },
+    "darkpaycoin": {
+        "total_val": 51,
+        "different_val": 1
+    },
+    "dash-diamond": {
+        "total_val": 50,
+        "different_val": 0
+    },
+    "davinci-coin": {
+        "total_val": 46,
+        "different_val": 1
+    },
+    "aave-snx": {
+        "total_val": 46,
+        "different_val": 3
+    },
+    "compound-wrapped-btc": {
+        "total_val": 38,
+        "different_val": 0
+    },
+    "4xbit": {
+        "total_val": 33,
+        "different_val": 0
+    },
+    "99masternodes": {
+        "total_val": 32,
+        "different_val": 0
+    },
+    "aave-knc": {
+        "total_val": 31,
+        "different_val": 0
+    },
+    "compound-augur": {
+        "total_val": 30,
+        "different_val": 1
+    },
+    "connectome": {
+        "total_val": 29,
+        "different_val": 0
+    },
+    "3x-short-tezos-token": {
+        "total_val": 28,
+        "different_val": 0
+    },
+    "dacsee": {
+        "total_val": 27,
+        "different_val": 0
+    },
+    "cosplay-token": {
+        "total_val": 27,
+        "different_val": 0
+    },
+    "connect": {
+        "total_val": 24,
+        "different_val": 0
+    },
+    "counosx": {
+        "total_val": 24,
+        "different_val": 0
+    },
+    "nova": {
+        "total_val": 24,
+        "different_val": 0
+    },
+    "datbit": {
+        "total_val": 23,
+        "different_val": 0
+    },
+    "connect-coin": {
+        "total_val": 22,
+        "different_val": 0
+    },
+    "8x8-protocol": {
+        "total_val": 21,
+        "different_val": 0
+    },
+    "aaa-coin": {
+        "total_val": 20,
+        "different_val": 0
+    },
+    "compound-sai": {
+        "total_val": 19,
+        "different_val": 0
+    },
+    "coupit": {
+        "total_val": 19,
+        "different_val": 0
+    },
+    "dawn-protocol": {
+        "total_val": 17,
+        "different_val": 0
+    },
+    "3x-short-trx-token": {
+        "total_val": 17,
+        "different_val": 0
+    },
+    "3x-short-litecoin-token": {
+        "total_val": 16,
+        "different_val": 0
+    },
+    "3x-short-shitcoin-index-token": {
+        "total_val": 15,
+        "different_val": 0
+    },
+    "abf-comva": {
+        "total_val": 15,
+        "different_val": 0
+    },
+    "oath-protocol": {
+        "total_val": 15,
+        "different_val": 0
+    },
+    "novachain": {
+        "total_val": 14,
+        "different_val": -1
+    },
+    "dappercoin": {
+        "total_val": 12,
+        "different_val": 0
+    },
+    "aave-bat": {
+        "total_val": 12,
+        "different_val": 2
+    },
+    "3x-short-okb-token": {
+        "total_val": 12,
+        "different_val": 0
+    },
+    "conun": {
+        "total_val": 11,
+        "different_val": 0
+    },
+    "3x-short-matic-token": {
+        "total_val": 11,
+        "different_val": 0
+    },
+    "nuvo-cash": {
+        "total_val": 11,
+        "different_val": 0
+    },
+    "ntok": {
+        "total_val": 11,
+        "different_val": 0
+    },
+    "academy-token": {
+        "total_val": 11,
+        "different_val": 0
+    },
+    "ace-wins": {
+        "total_val": 10,
+        "different_val": 0
+    },
+    "day": {
+        "total_val": 9,
+        "different_val": 0
+    },
+    "nullex": {
+        "total_val": 9,
+        "different_val": 0
+    },
+    "nrv-coin": {
+        "total_val": 9,
+        "different_val": 0
+    },
+    "community-coin": {
+        "total_val": 9,
+        "different_val": 0
+    },
+    "complete-new-commerce-chain": {
+        "total_val": 8,
+        "different_val": 0
+    },
+    "constant-source-chain": {
+        "total_val": 8,
+        "different_val": 0
+    },
+    "data-delivery-network": {
+        "total_val": 8,
+        "different_val": 0
+    },
+    "abs-chain": {
+        "total_val": 8,
+        "different_val": 0
+    },
+    "aave-rep": {
+        "total_val": 8,
+        "different_val": 0
+    },
+    "dalichain": {
+        "total_val": 7,
+        "different_val": 0
+    },
+    "3x-short-pax-gold-token": {
+        "total_val": 6,
+        "different_val": 0
+    },
+    "3x-short-leo-token": {
+        "total_val": 6,
+        "different_val": 0
+    },
+    "nuclum": {
+        "total_val": 6,
+        "different_val": 0
+    },
+    "dangx": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "520": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "data-exchange": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "dagontoken": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "communication-development-resources-token": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "consumption-avatar-matrix": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "cost-coin": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "community": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "7chain": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "corona-time-coins": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "nynja": {
+        "total_val": 5,
+        "different_val": 0
+    },
+    "community-chain": {
+        "total_val": 4,
+        "different_val": 0
+    },
+    "3x-short-midcap-index-token": {
+        "total_val": 4,
+        "different_val": 0
+    },
+    "novem-gold-token": {
+        "total_val": 4,
+        "different_val": 0
+    },
+    "dcon": {
+        "total_val": 4,
+        "different_val": 0
+    },
+    "connectchain": {
+        "total_val": 3,
+        "different_val": 0
+    },
+    "north-star-chain": {
+        "total_val": 3,
+        "different_val": 0
+    },
+    "davion": {
+        "total_val": 3,
+        "different_val": 0
+    },
+    "data-trade-on-demand-platform": {
+        "total_val": 3,
+        "different_val": 0
+    },
+    "cool-token": {
+        "total_val": 2,
+        "different_val": 0
+    },
+    "conagra-brands-inc": {
+        "total_val": 1,
+        "different_val": 0
+    },
+    "contracoin": {
+        "total_val": 1,
+        "different_val": 0
+    },
+    "3x-short-maker-token": {
+        "total_val": 1,
+        "different_val": 0
+    },
+    "3x-short-theta-network-token": {
+        "total_val": 1,
+        "different_val": 0
+    },
+    "connect-mining-coin": {
+        "total_val": 0,
+        "different_val": 0
+    },
+    "3x-short-tether-gold-token": {
+        "total_val": 0,
+        "different_val": 0
+    }
+}

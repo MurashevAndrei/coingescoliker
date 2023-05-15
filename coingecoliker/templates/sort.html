@@ -1,0 +1,611 @@
+{% extends "base.html" %}
+
+{% block head%}
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+  <script src="//cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+{% endblock %}
+{% block h1 %}
+	  <h1> Table of coins</h1>
+{% endblock %}
+
+{%block content %}
+
+<div class='row'>
+   <div class='col-md-5 col-sm-8 col-xs-8'>
+  <form class='form-inline' action='' method='post'>
+	   <div class="form-group">
+	        {% csrf_token %}
+          {% if dfrom %}
+     <label for="datetime-from">Date from to</label>
+     		<input class="form-control" type="date" value='{{dfrom}}' id="datetime-from" name='from'>
+	   </div>
+	   <div class="form-group">
+     		<input class="form-control" type="date" value='{{dto}}' id="datetime-to" name='to'>
+	   </div>
+     {% endif %}
+		<button type="submit" class="btn btn-primary" name='date'>OK</button>
+	  </form>
+
+   </div>
+		<div class='col-md-5 col-sm-8 col-xs-8'>
+		<form action='' method='post'>
+			 {% csrf_token %}
+       <div class='col-md-2'>
+         <p>Exchanges</p>
+         <p>Twitters</p>
+         <p>Categories</p>
+      </div>
+			 <div class='col-md-8'>
+
+		  <select class="js-example-basic-multiple" name="exchange[]" multiple="multiple">
+					{% for market in list_markets %}
+            <option value="{{market}}">{{market}}</option>
+          {% endfor %}
+    </select>
+
+    <select class="js-example-basic-multiple" name="twitter[]" multiple="multiple">
+        {% for account in list_twitter_accounts %}
+          <option value="{{account.1}}">{{account.0}} ({{account.1}})</option>
+        {% endfor %}
+      </select>
+        <select class="js-example-basic-multiple" name="cat[]" multiple="multiple">
+            {% for cat in list_cat %}
+              <option value="{{cat}}">{{cat}}</option>
+            {% endfor %}
+
+  </select>
+		</div>
+		<div class='col-md-2'>
+		<button type="submit" class="btn btn-primary" name='multi'>OK</button>
+		</div>
+		</form>
+  </div>
+  <div class='col-md-2 col-sm-8 col-xs-8'>
+	  {% if answer %}
+	  <p>{{answer}}</p>
+	  {% endif %}
+</div>
+<div class='col-md-2 col-sm-8 col-xs-8'>
+  {% if answer_twitter %}
+  <p>{{answer_twitter}}</p>
+  {% endif %}
+</div>
+<div class='col-md-2 col-sm-8 col-xs-8'>
+  {% if answer_cat %}
+  <p>{{answer_cat}}</p>
+  {% endif %}
+</div>
+</div>
+  <div class='row'>
+  <div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min total:</td>
+     <td><input type="text" id="min" name="min"></td>
+   </tr>
+   <tr>
+     <td>Max total:</td>
+     <td><input type="text" id="max" name="max"></td>
+   </tr>
+  </table>
+  </div>
+  <div class='col-md-2 col-sm-2'>
+  <table id='hour' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min hour:</td>
+     <td><input type="text" id="minh" name="minh"></td>
+   </tr>
+   <tr>
+     <td>Max hour:</td>
+     <td><input type="text" id="maxh" name="maxh"></td>
+   </tr>
+  </table>
+  </div>
+  <div class='col-md-2 col-sm-2'>
+  <table id='hour' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min day:</td>
+     <td><input type="text" id="mind" name="mind"></td>
+   </tr>
+   <tr>
+     <td>Max day:</td>
+     <td><input type="text" id="maxd" name="maxd"></td>
+   </tr>
+  </table>
+  </div>
+  <div class='col-md-2 col-sm-2'>
+  <table id='hour' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min week:</td>
+     <td><input type="text" id="minw" name="minw"></td>
+   </tr>
+   <tr>
+     <td>Max week:</td>
+     <td><input type="text" id="maxw" name="maxw"></td>
+   </tr>
+  </table>
+  </div>
+  <div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min custom:</td>
+     <td><input type="text" id="minc" name="minc"></td>
+   </tr>
+   <tr>
+     <td>Max custom:</td>
+     <td><input type="text" id="maxc" name="maxc"></td>
+   </tr>
+  </table>
+  </div>
+  <div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min custom price:</td>
+     <td><input type="text" id="mincpch" name="mincpch"></td>
+   </tr>
+   <tr>
+     <td>Max custom price:</td>
+     <td><input type="text" id="maxcpch" name="maxcpch"></td>
+   </tr>
+  </table>
+  </div>
+	<div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min price 24h(%):</td>
+     <td><input type="text" id="minp24" name="minp24"></td>
+   </tr>
+   <tr>
+     <td>Max price 24h(%):</td>
+     <td><input type="text" id="maxp24" name="maxp24"></td>
+   </tr>
+  </table>
+  </div>
+	<div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min MrketCap:</td>
+     <td><input type="text" id="minmc" name="minmc"></td>
+   </tr>
+   <tr>
+     <td>Max MrketCap:</td>
+     <td><input type="text" id="maxmc" name="maxmc"></td>
+   </tr>
+  </table>
+  </div>
+  <div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min 24 trading vol:</td>
+     <td><input type="text" id="mintv" name="mintv"></td>
+   </tr>
+   <tr>
+     <td>Max 24 trading vol:</td>
+     <td><input type="text" id="maxtv" name="maxtv"></td>
+   </tr>
+  </table>
+  </div>
+	<div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min fully diluted val:</td>
+     <td><input type="text" id="minfdv" name="minfdv"></td>
+   </tr>
+   <tr>
+     <td>Max fully diluted val:</td>
+     <td><input type="text" id="maxfdv" name="maxfdv"></td>
+   </tr>
+  </table>
+  </div>
+  <div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min Twitter followers:</td>
+     <td><input type="text" id="mintwit" name="mintwit"></td>
+   </tr>
+   <tr>
+     <td>Max Twitter followers:</td>
+     <td><input type="text" id="maxtwit" name="maxtwit"></td>
+   </tr>
+  </table>
+  </div>
+  <div class='col-md-2 col-sm-2'>
+  <table id='total' border="0" cellspacing="5" cellpadding="5">
+   <tr>
+     <td>Min date release:</td>
+     <td><input type="text" id="minrelease" name="minrelease"></td>
+   </tr>
+   <tr>
+     <td>Max date release:</td>
+     <td><input type="text" id="maxrelease" name="maxrelease"></td>
+   </tr>
+  </table>
+  </div>
+
+  </div>
+  {% if dfrom %}
+  <div>
+        Toggle column: <a class="toggle-vis" data-column="0">Coin name</a> - <a class="toggle-vis" data-column="1">Total</a> -
+        <a class="toggle-vis" data-column="2">1 hour</a> - <a class="toggle-vis" data-column="3">1 day</a> -
+        <a class="toggle-vis" data-column="4">1 week</a> - <a class="toggle-vis" data-column="5">likes change</a> -
+        <a class="toggle-vis" data-column="6">price change(%)</a> -
+        <a class="toggle-vis" data-column="7">price change 24h(%)</a> -
+        <a class="toggle-vis" data-column="8">market_cap</a> -
+        <a class="toggle-vis" data-column="9">24h trading vol</a> -
+        <a class="toggle-vis" data-column="10">fully diluted valuation</a> -
+        <a class="toggle-vis" data-column="11">twitter followers</a> -
+        <a class="toggle-vis" data-column="12">release date</a> -
+        <a class="toggle-vis" data-column="13">grafiks</a> -
+        <a class="toggle-vis" data-column="14">dev_stars</a> -
+        <a class="toggle-vis" data-column="15">all twitter followers</a> -
+        <a class="toggle-vis" data-column="16">telegram users count</a> -
+        <a class="toggle-vis" data-column="17">developer stars</a> -
+        <a class="toggle-vis" data-column="18">developer subscribers coingecko</a> -
+        <a class="toggle-vis" data-column="19">total issues</a> -
+        <a class="toggle-vis" data-column="20">closed issues</a> -
+        <a class="toggle-vis" data-column="21">pull request merged</a> -
+        <a class="toggle-vis" data-column="22">pull requests contributors</a> -
+    </div>
+  {% endif %}
+  <table id="table" class="table" style="width:100%">
+    <thead>
+      <tr>
+        <th>Coin name</th>
+        <th>Total</th>
+        <th>1 hour</th>
+        <th>1 day</th>
+        <th>1 week</th>
+  {% if dfrom %}
+    <th data-field="custom" data-sortable="true">likes change {{dfrom}} - {{dto}}</th>
+  <th>price change(%) {{dfrom}} - {{dto}}</th>
+  {% endif %}
+  <th>price change 24h(%)</th>
+  <th>market_cap</th>
+  <th>24h trading vol</th>
+  <th>fully diluted valuation</th>
+  <th>twitter followers</th>
+  <th>release date</th>
+  <th>grafiks</th>
+  <th>dev_stars</th>
+  <th>all twitter followers</th>
+  <th>telegram users count</th>
+  <th>developer stars</th>
+  <th>developer subscribers coingecko</th>
+  <th>total issues</th>
+  <th>closed issues</th>
+  <th>pull requests merged</th>
+  <th>pull requests contributors</th>
+      </tr>
+    </thead>
+    <tbody>
+    {%for coin, value in coins.items %}
+    <tr>
+<td><a href="{{value.url}}">{{coin}}</a></td>
+      <td>{{value.total_val}}</td>
+      <td>{{value.diff_1}}</td>
+      <td>{{value.diff_2}}</td>
+      <td>{{value.diff_3}}</td>
+      <td>{{value.diff_c}}</td>
+      <td>{{value.custom_price_change_percentage}}</td>
+      <td>{{value.price_change_percentage_24h}}</td>
+      <td>{{value.market_cap}}</td>
+      <td>{{value.24_hour_trading_volume}}</td>
+      <td>{{value.fully_diluted_valuation}}</td>
+      <td>{{value.twitter_followers_amount}}</td>
+      <td>{{value.date_release}}</td>
+      <td><a href="/gr/{{value.coin}}"> Graf</td>
+      <td> - </td>
+      <td>{{value.tw_f}}</td>
+      <td>{{value.tel_users_count}}</td>
+      <td>{{value.stars}}</td>
+      <td>{{value.subscribers}}</td>
+      <td>{{value.t_i}}</td>
+      <td>{{value.c_i}}</td>
+      <td>{{value.p_r_m}}</td>
+      <td>{{value.p_r_c}}</td>
+    </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+  </div>
+</div>
+<script>
+
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var min = parseInt( $('#min').val(), 10 );
+        var max = parseInt( $('#max').val(), 10 );
+        var total = parseFloat( data[1] ) || 0; // use data for the age column
+
+        if ( ( isNaN( min ) && isNaN( max ) ) ||
+             ( isNaN( min ) && total <= max ) ||
+             ( min <= total   && isNaN( max ) ) ||
+             ( min <= total   && total <= max ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var minh = parseInt( $('#minh').val(), 10 );
+        var maxh = parseInt( $('#maxh').val(), 10 );
+        var hour = parseFloat( data[2] ) || 0; // use data for the age column
+
+        if ( ( isNaN( minh ) && isNaN( maxh ) ) ||
+             ( isNaN( minh ) && hour <= maxh ) ||
+             ( minh <= hour   && isNaN( maxh ) ) ||
+             ( minh <= hour   && hour <= maxh ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var mind = parseInt( $('#mind').val(), 10 );
+        var maxd = parseInt( $('#maxd').val(), 10 );
+        var day = parseFloat( data[3] ) || 0; // use data for the age column
+
+        if ( ( isNaN( mind ) && isNaN( maxd ) ) ||
+             ( isNaN( mind ) && day <= maxd ) ||
+             ( mind <= day   && isNaN( maxd ) ) ||
+             ( mind <= day   && day <= maxd ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var minw = parseInt( $('#minw').val(), 10 );
+        var maxw = parseInt( $('#maxw').val(), 10 );
+        var week = parseFloat( data[4] ) || 0; // use data for the age column
+
+        if ( ( isNaN( minw ) && isNaN( maxw ) ) ||
+             ( isNaN( minw ) && week <= maxw ) ||
+             ( minw <= week   && isNaN( maxw ) ) ||
+             ( minw <= week   && week <= maxw ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var minc = parseInt( $('#minc').val(), 10 );
+        var maxc = parseInt( $('#maxc').val(), 10 );
+        var custom = parseFloat( data[5] ) || 0; // use data for the age column
+
+        if ( ( isNaN( minc ) && isNaN( maxc ) ) ||
+             ( isNaN( minc ) && custom <= maxc ) ||
+             ( minc <= custom   && isNaN( maxc ) ) ||
+             ( minc <= custom   && custom <= maxc ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var mincpch = parseInt( $('#mincpch').val(), 10 );
+        var maxcpch = parseInt( $('#maxcpch').val(), 10 );
+        var cpch = parseFloat( data[6].replace(/,/g, '').replace('$', '') ) || 0; // use data for the age column
+
+        if ( ( isNaN( mincpch ) && isNaN( maxcpch ) ) ||
+             ( isNaN( mincpch ) && cpch <= maxcpch ) ||
+             ( mincpch <= cpch   && isNaN( maxcpch ) ) ||
+             ( mincpch <= cpch   && cpch <= maxcpch ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var minp24 = parseInt( $('#minp24').val(), 10 );
+        var maxp24 = parseInt( $('#maxp24').val(), 10 );
+        var price24 = parseFloat( data[7] ) || 0; // use data for the age column
+
+        if ( ( isNaN( minp24 ) && isNaN( maxp24 ) ) ||
+             ( isNaN( minp24 ) && price24 <= maxp24 ) ||
+             ( minp24 <= price24   && isNaN( maxp24 ) ) ||
+             ( minp24 <= price24   && price24 <= maxp24 ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var minmc = parseInt( $('#minmc').val(), 10 );
+        var maxmc = parseInt( $('#maxmc').val(), 10 );
+        var marketcap = parseFloat( data[8].replace(/,/g, '').replace('$', '') ) || 0; // use data for the age column
+
+        if ( ( isNaN( minmc ) && isNaN( maxmc ) ) ||
+             ( isNaN( minmc ) && marketcap <= maxmc ) ||
+             ( minmc <= marketcap   && isNaN( maxmc ) ) ||
+             ( minmc <= marketcap   && marketcap <= maxmc ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var mintv = parseInt( $('#mintv').val(), 10 );
+        var maxtv = parseInt( $('#maxtv').val(), 10 );
+        var tv = parseFloat( data[9].replace(/,/g, '').replace('$', '') ) || 0; // use data for the age column
+      //  console.log(tv);
+        if ( ( isNaN( mintv ) && isNaN( maxtv ) ) ||
+             ( isNaN( mintv ) && tv <= maxtv ) ||
+             ( mintv <= tv   && isNaN( maxtv ) ) ||
+             ( mintv <= tv   && tv <= maxtv ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var minfdv = parseInt( $('#minfdv').val(), 10 );
+        var maxfdv = parseInt( $('#maxfdv').val(), 10 );
+        var fdv = parseFloat( data[10].replace(/,/g, '').replace('$', '') ) || 0; // use data for the age column
+
+        if ( ( isNaN( minfdv ) && isNaN( maxfdv ) ) ||
+             ( isNaN( minfdv ) && fdv <= maxfdv ) ||
+             ( minfdv <= fdv   && isNaN( maxfdv ) ) ||
+             ( minfdv <= fdv   && fdv <= maxfdv ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var mintwit = parseInt( $('#mintwit').val(), 10 );
+        var maxtwit = parseInt( $('#maxtwit').val(), 10 );
+        var twit = parseFloat( data[11] ) || 0; // use data for the age column
+
+        if ( ( isNaN( mintwit ) && isNaN( maxtwit ) ) ||
+             ( isNaN( mintwit ) && twit <= maxtwit ) ||
+             ( mintwit <= twit   && isNaN( maxtwit ) ) ||
+             ( mintwit <= twit   && twit <= maxtwit ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+$.fn.dataTable.ext.search.push(
+    function( settings, data, dataIndex ) {
+        var minrelease = parseInt( $('#minrelease').val(), 10 );
+        var maxrelease = parseInt( $('#maxrelease').val(), 10 );
+        var release = parseFloat( data[12] ) || 0; // use data for the age column
+
+        if ( ( isNaN( minrelease ) && isNaN( maxrelease ) ) ||
+             ( isNaN( minrelease ) && release <= maxrelease ) ||
+             ( minrelease <= release   && isNaN( maxrelease ) ) ||
+             ( minrelease <= release   && release <= maxrelease ) )
+        {
+            return true;
+        };
+        return false;
+    }
+);
+
+$(document).ready(function() {
+
+
+	var table = $('#table').DataTable({
+        "order": [[ 1, "desc" ]],
+	"lengthMenu": [[50, 100, 200, -1], [50, 100, 200, 'All']]
+    } );
+	$('#min, #max').keyup( function() {
+		table.draw();}),
+	$('#minh, #maxh').keyup( function() {
+		table.draw();})
+	$('#mind, #maxd').keyup( function() {
+		table.draw();})
+	$('#minw, #maxw').keyup( function() {
+		table.draw();})
+	$('#minc, #maxc').keyup( function() {
+		table.draw();})
+  $('#mincpch, #maxcpch').keyup( function() {
+    table.draw();})
+	$('#minp24, #maxp24').keyup( function() {
+		table.draw();})
+	$('#minmc, #maxmc').keyup( function() {
+		table.draw();})
+  $('#mintv, #maxtv').keyup( function() {
+    table.draw();})
+	$('#minfdv, #maxfdv').keyup( function() {
+		table.draw();})
+  $('#mintwit, #maxtwit').keyup( function() {
+		table.draw();})
+  $('#minrelease, #maxrelease').keyup( function() {
+		table.draw();})
+	$('.js-example-basic-multiple').select2();
+  //$('#grafik').load('/gr/{{value.coin}}')
+  $('a.toggle-vis').on( 'click', function (e) {
+        e.preventDefault();
+
+        // Get the column API object
+        var column = table.column( $(this).attr('data-column') );
+
+        // Toggle the visibility
+        column.visible( ! column.visible() );
+        //$(this).css('color', '#B6E0FF');#337ab7;
+        if (table.column($(this).attr('data-column')).visible() == false) {
+          var i = $(this).attr('data-column');
+          var col = $('a.toggle-vis')[i];
+          col.style.color = '#B6E0FF';
+        } else {
+          var i = $(this).attr('data-column');
+          var col = $('a.toggle-vis')[i];
+          col.style.color = '#337ab7';
+        };
+        console.log(table.column($(this).attr('data-column')).visible());
+        console.log($(this).attr('data-column'));
+
+    } );
+  table.column(13).visible(false);
+  table.column(14).visible(false);
+  table.column(15).visible(false);
+  table.column(16).visible(false);
+  table.column(17).visible(false);
+  table.column(18).visible(false);
+  table.column(19).visible(false);
+  table.column(20).visible(false);
+  table.column(21).visible(false);
+  table.column(22).visible(false);
+  for (i = 0; i <= 22; i++) {
+    if (table.column(i).visible() == false) {
+      var col = $('a.toggle-vis')[i];
+      col.style.color = '#B6E0FF';
+      console.log($('a.toggle-vis')[i]);
+      console.log(table.column(i));
+
+    }
+    //console.log(table.column(i).visible());
+  };
+
+	$(document).keydown( function (event) {
+		if(event.code == "Slash") {
+			(document).getElementsByClassName("form-control form-control-sm")[1].focus();
+			///		(document).getElementsByClassName("form-control form-control-sm")[1].select()
+		}
+		else if(event.code == "ShiftRight") {
+
+			(document).getElementsByClassName("form-control form-control-sm")[1].focus();
+			(document).getElementsByClassName("form-control form-control-sm")[1].select()
+		}
+	});
+	$(document).keyup( function (event) {
+		if(event.code == "Slash") {
+			//var a = (document).getElementsByClassName("form-control form-control-sm")[1].value;
+			//console.log(a);
+			//(document).getElementsByClassName("form-control form-control-sm")[1].value = a.slice(0, -1);
+			//console.log(a.slice(0, -1));
+			//console.log((document).getElementsByClassName("form-control form-control-sm")[1]);
+			(document).getElementsByClassName("form-control form-control-sm")[1].select()
+		}
+	});
+
+} );
+
+
+
+</script>
+
+{% endblock %}

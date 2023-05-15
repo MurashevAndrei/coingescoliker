@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% block h1 %}
+	  <h1> Table of coins</h1>
+{% endblock %}
+
+{%block content %}
+
+<table id="example" class="table">
+    <thead>
+      <tr>
+        <td>coin_name</td>
+        <td>price</td>
+        <td>price_change_percentage_24h</td>
+        <td>market_cap</td>
+        <td>24_hour_trading_volume</td>
+        <td>fully_diluted_valuation</td>
+				<td>max_supply</td>
+      </tr>
+    </thead>
+    <tbody>
+    {%for coin in data %}
+      <tr>
+	<td>{{coin.coin_id}}</td>
+        <td>{{coin.coin_price}}</td>
+        <td>{{coin.price_change_percentage_24h}}</td>
+        <td>{{coin.market_cap}}</td>
+        <td>{{coin.24_hour_trading_volume}}</td>
+        <td>{{coin.fully_diluted_valuation}}</td>
+        <td>{{coin.max_supply}}</td>
+      </tr>
+     {% endfor %}
+    </tbody>
+  </table>
+  </div>
+<script>
+$(document).ready(function() {
+    // Setup - add a text input to each footer cell
+    $('#example thead td').each( function () {
+        var title = $(this).text();
+        $(this).html( '<input type="text" placeholder="Search '+title+'" />' );
+    } );
+
+    // DataTable
+    var table = $('#example').DataTable({
+	"lengthMenu": [[50, 100, 200, -1], [50, 100, 200, 'All']],
+        initComplete: function () {
+            // Apply the search
+            this.api().columns().every( function () {
+                var that = this;
+
+                $( 'input', this.header() ).on( 'keyup change clear', function () {
+                    if ( that.search() !== this.value ) {
+                        that
+                            .search( this.value )
+                            .draw();
+                    }
+                } );
+            } );
+        }
+    });
+
+} );
+	</script>
+{% endblock %}
