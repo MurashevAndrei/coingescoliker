@@ -6,11 +6,9 @@ django-heroku
 pymongo
 pymongo[srv]
 dnspython
-cfscrape
-aiocfscrape
 
 requests==2.21.0
-fake_useragent
 
-cloudscraper
+
+
 requests[socks]
