@@ -82,6 +82,7 @@ async def get_data_io(id, proxy):
             print(id, data)
     except:
         errors[id] = 'Exception error'
+        print('proxy')
 
 
 
