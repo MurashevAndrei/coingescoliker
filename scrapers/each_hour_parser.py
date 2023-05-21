@@ -6,7 +6,8 @@ from pymongo import MongoClient
 from datetime import datetime
 
 
-client = MongoClient("mongodb+srv://coingeckoDB:12wsaq@coingecko.16oet.mongodb.net/<dbname>?retryWrites=true&w=majority")
+#client = MongoClient("mongodb+srv://coingeckoDB:12wsaq@coingecko.16oet.mongodb.net/<dbname>?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://doadmin:O627m5J9EjxXQ081@db-mongodb-fra1-43282-c88d22b1.mongo.ondigitalocean.com/admin?tls=true&authSource=admin")
 GEN_DICT = {}
 
 def get_dict_coins_id():
@@ -182,7 +183,7 @@ if __name__ == '__main__':
     #    stop -= 1
     save_to_json(all_coins_price)
     print(errors)
-    
+
     #run()
     with open('data.json', 'r') as f:
         data = json.load(f)
