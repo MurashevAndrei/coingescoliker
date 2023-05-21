@@ -75,14 +75,14 @@ async def get_html_io(client, id, proxy):
 async def get_data_io(id, proxy):
     try:
         loop = asyncio.get_running_loop()
-        timeout = aiohttp.ClientTimeout(total=10.2)
+        timeout = aiohttp.ClientTimeout(total=10)
         async with aiohttp.ClientSession(loop=loop, trust_env=True, timeout=timeout) as client:
             data = await get_html_io(client, id, proxy)
             all_coins_price[id] = data
             print(id, data)
     except:
         errors[id] = 'Exception error'
-        print('proxy')
+        print(proxy)
 
 
 
