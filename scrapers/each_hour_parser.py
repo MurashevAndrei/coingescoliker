@@ -6,7 +6,7 @@ from pymongo import MongoClient
 from datetime import datetime
 import os
 
-p = os.path.abspath('Webshere')
+p = os.path.abspath('Webshare')
 print(p)
 
 
