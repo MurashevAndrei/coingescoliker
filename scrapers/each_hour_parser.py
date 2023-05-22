@@ -6,6 +6,9 @@ from pymongo import MongoClient
 from datetime import datetime
 import os
 
+p = os.path.abspath('Webshere')
+print(p)
+
 
 #client = MongoClient("mongodb+srv://coingeckoDB:12wsaq@coingecko.16oet.mongodb.net/<dbname>?retryWrites=true&w=majority")
 client = MongoClient("mongodb+srv://doadmin:O627m5J9EjxXQ081@db-mongodb-fra1-43282-c88d22b1.mongo.ondigitalocean.com/admin?tls=true&authSource=admin")
@@ -32,7 +35,7 @@ def get_dict_coins_id():
 
 def get_proxies_list(file_name):
     try:
-        with open(file_name, 'r') as f:
+        with open(os.path.abspath(file_name), 'r') as f:
             res = f.readlines()
         i = 0
         proxies_list = []
@@ -139,7 +142,7 @@ def save_mongo(coin):
 
 
 def run():
-    PROXIES_LIST = get_proxies_list(os.path.abspath('Webshere'))
+    PROXIES_LIST = get_proxies_list('Webshare')
     #for rdate in re_date:
     ids_list = get_dict_coins_id()
 
@@ -168,7 +171,7 @@ if __name__ == '__main__':
         watchlists.append({id: coin_data})
     '''
 
-    PROXIES_LIST = get_proxies_list(os.path.abspath('Webshere'))
+    PROXIES_LIST = get_proxies_list('Webshare')
     #for rdate in re_date:
     ids_list = get_dict_coins_id()
 
@@ -183,11 +186,12 @@ if __name__ == '__main__':
 
     #    handler(ids_list, PROXIES_LIST)
     #    stop -= 1
+
     save_to_json(all_coins_price)
     print(errors)
 
     #run()
-    with open('data.json', 'r') as f:
+    with open(os.path.abspath('data.json'), 'r') as f:
         data = json.load(f)
     save_mongo(data)
     print(data)
