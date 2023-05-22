@@ -4,6 +4,7 @@ import aiohttp
 import json
 from pymongo import MongoClient
 from datetime import datetime
+import os
 
 
 #client = MongoClient("mongodb+srv://coingeckoDB:12wsaq@coingecko.16oet.mongodb.net/<dbname>?retryWrites=true&w=majority")
@@ -116,7 +117,7 @@ def handler(ids_list, PROXIES_LIST):
     return
 
 def save_to_json(data):
-    with open('data.json', 'w', encoding='utf-8') as f:
+    with open(os.path.abspath('data.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 
@@ -138,7 +139,7 @@ def save_mongo(coin):
 
 
 def run():
-    PROXIES_LIST = get_proxies_list('Webshare')
+    PROXIES_LIST = get_proxies_list(os.path.abspath('Webshere'))
     #for rdate in re_date:
     ids_list = get_dict_coins_id()
 
@@ -167,7 +168,7 @@ if __name__ == '__main__':
         watchlists.append({id: coin_data})
     '''
 
-    PROXIES_LIST = get_proxies_list('Webshare')
+    PROXIES_LIST = get_proxies_list(os.path.abspath('Webshere'))
     #for rdate in re_date:
     ids_list = get_dict_coins_id()
 
