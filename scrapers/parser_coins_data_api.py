@@ -12,7 +12,7 @@ from pymongo import MongoClient
 import random
 from time import time, sleep
 
-client = MongoClient("mongodb+srv://coingeckoDB:12wsaq@coingecko.16oet.mongodb.net/<dbname>?retryWrites=true&w=majority")
+client = MongoClient("mongodb+srv://doadmin:O627m5J9EjxXQ081@db-mongodb-fra1-43282-c88d22b1.mongo.ondigitalocean.com/admin?tls=true&authSource=admin")
 
 
 
@@ -125,7 +125,7 @@ def push_tw_screen_name(data):
 
 
 async def get_api_data(client, url, proxy):
-    proxy = f'http://vvyyimhm:vu4t6rhgy97x @{proxy}'
+    proxy = f'http://tactjknm:74alj06v8083 @{proxy}'
     try:
         async with client.get(url, proxy=proxy) as response:
         #async with client.get('https://coinmarketcap.com/', proxy=proxy) as response:

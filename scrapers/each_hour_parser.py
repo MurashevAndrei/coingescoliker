@@ -83,6 +83,7 @@ async def get_data_io(id, proxy):
             data = await get_html_io(client, id, proxy)
             all_coins_price[id] = data
             print(id, data)
+
     except:
         errors[id] = 'Exception error'
         print(proxy)
