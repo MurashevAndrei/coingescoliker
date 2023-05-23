@@ -217,6 +217,7 @@ def start_compare(c_date1=0, c_date2=0):
     custom_inter = custom_list[0]
     custom_dict = custom_list[1]
     new_data = load_MongoDB(selected_list_parse[0])
+    print(new_data)
     compair_dict = {}
     for key in new_data:
         compair_dict[key] = {'url': 'https://www.coingecko.com/en/coins/{}'.format(key), 'total_val': 0}
