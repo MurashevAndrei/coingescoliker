@@ -120,7 +120,7 @@ def handler(ids_list, PROXIES_LIST):
     return
 
 def save_to_json(data):
-    with open(os.path.abspath('data.json'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(BASE_DIR, 'scrapers/data.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
 

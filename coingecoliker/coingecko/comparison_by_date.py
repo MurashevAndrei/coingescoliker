@@ -209,6 +209,7 @@ def start_compare(c_date1=0, c_date2=0):
     """
     all_parse_files = find_all_date_MongoDB()
     selected_list_parse = select_four_files(all_parse_files)
+    print(selected_list_parse)
     if c_date2 == 0 and c_date1 == 0:
         c_date1 = (datetime.today() - timedelta(days=14)).strftime('%Y-%m-%d')
         c_date2 = datetime.today().strftime('%Y-%m-%d')
