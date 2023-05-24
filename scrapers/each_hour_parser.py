@@ -23,10 +23,10 @@ def get_dict_coins_id():
     coins_id_lists = []
     for coin in coins_id:
         if coin.get('id') == '':
-            print(coin)
+            #print(coin)
             continue
         elif '.' in coin.get('id'):
-            print(coin)
+            #print(coin)
             continue
         coins_id_lists.append(coin.get('id'))
     return coins_id_lists
@@ -54,9 +54,9 @@ def get_watchlists(id):
     }
     link = 'https://api.coingecko.com/api/v3/coins/' + id
     coin_data = requests.get(link, headers=headers).json()
-    print(link)
+    #print(link)
 
-    print(coin_data['watchlist_portfolio_users'])
+    #print(coin_data['watchlist_portfolio_users'])
     return coin_data
 
 async def get_html_io(client, id, proxy):
@@ -82,7 +82,7 @@ async def get_data_io(id, proxy):
         async with aiohttp.ClientSession(loop=loop, trust_env=True, timeout=timeout) as client:
             data = await get_html_io(client, id, proxy)
             all_coins_price[id] = data
-            print(id, data)
+            #print(id, data)
 
     except:
         errors[id] = 'Exception error'
@@ -194,4 +194,5 @@ if __name__ == '__main__':
     with open(os.path.join(BASE_DIR, 'scrapers/data.json'), 'r') as f:
         data = json.load(f)
     save_mongo(data)
-    print(data)
+    #print(data)
+    print('saved')
