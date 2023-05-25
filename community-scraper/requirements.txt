@@ -1,0 +1,11 @@
+bs4
+lxml
+aiohttp
+gunicorn
+django-heroku
+pymongo
+pymongo[srv]
+dnspython
+
+requests==2.21.0
+fake_useragent
