@@ -52,7 +52,9 @@ def select_data(data_detail):
             var_dict['price_change_percentage_24h'] = round(float(coin['price_change_percentage_24h']), 2)
         else:
             var_dict['price_change_percentage_24h'] = '-'
-        locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+        #locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
+        locale.setlocale(locale.LC_ALL, 'C.UTF-8')
+
         if coin['market_cap'] != None:
             var_dict['market_cap'] = '$' + locale.format('%d', int(coin['market_cap']), grouping=True)
         else:
