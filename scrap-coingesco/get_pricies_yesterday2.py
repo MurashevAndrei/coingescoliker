@@ -7,20 +7,24 @@ from pymongo import MongoClient
 import requests
 import time
 from datetime import datetime, date, timedelta
-#from fake_useragent import UserAgent
 from time import time, sleep
 import json
 import random
+import sys
 
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-print(BASE_DIR)
+sys.path.append( os.path.dirname(os.path.dirname(os.path.abspath(__file__))) )
+import base
 
-client = MongoClient("mongodb+srv://doadmin:O627m5J9EjxXQ081@db-mongodb-fra1-43282-c88d22b1.mongo.ondigitalocean.com/admin?tls=true&authSource=admin")
+# using
+print(base.BASE_DIR)
+
+
+client = MongoClient(base.CLIENT)
 
 def get_proxies_list(file_name):
     try:
-        with open(os.path.join(BASE_DIR, file_name), 'r') as f:
+        with open(os.path.join(base.BASE_DIR, file_name), 'r') as f:
             res = f.readlines()
         i = 0
         proxies_list = []
@@ -36,10 +40,7 @@ def get_proxies_list(file_name):
 
 async def get_html_io(client, id, proxy, rdate):
     proxy = f'http://tactjknm:74alj06v8083 @{proxy}'
-    #headers = { 'User-Agent': UserAgent().random }
-    headers = {
-        'accept': 'application/json',
-    }
+    headers = { 'User-Agent': UserAgent().random }
     url = f'https://api.coingecko.com/api/v3/coins/{id}/history?date={rdate}&localization=en'
     async with client.get(url, proxy=proxy, headers=headers) as response:
         if response.status != 200:
@@ -69,7 +70,32 @@ async def gen_main(ids, proxies_list, rdate):
     except:
         raise
 
-def handler(ids_list, PROXIES_LIST, rdate):
+def error_decorator(function):
+    # Внутри себя декоратор определяет функцию-"обёртку". Она будет обёрнута вокруг декорируемой,
+    # получая возможность исполнять произвольный код до и после неё.
+    def the_wrapper(ids_list, PROXIES_LIST, rdate, errors, first_list, all_coins_price):
+        function(ids_list, PROXIES_LIST, rdate, errors, first_list, all_coins_price)
+        ''''
+        stop = 20
+        while len(errors) > 0 and stop != 0:
+            print(len(first_list), '  >  ', len(list(all_coins_price.keys())))
+            ids_list = list(errors.keys())
+            errors = {}
+
+            function(ids_list, PROXIES_LIST, rdate)
+
+        stop -= 1
+
+        if len(first_list) > len(list(all_coins_price.keys())):
+            #print(len(first_list), '  >  ', len(list(all_coins_price.keys())))
+            errors = compair_flist(first_list, list(all_coins_price.keys()))
+            sleep(4)
+        '''
+    return the_wrapper
+
+
+@error_decorator
+def handler(ids_list, PROXIES_LIST, rdate, errors, first_list, all_coins_price):
     a = int(round(len(ids_list) / 100, 0))
     if a == 0:
         a = 1
@@ -113,41 +139,51 @@ def save_mongo(price, rdate):
 
 
 def save_to_json(data):
-    with open(os.path.join(BASE_DIR, 'scrap-coingesco/data.json'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(base.BASE_DIR, 'scrap-coingesco/data.json'), 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
+
+def get_date_yesterday():
+
+    rdate = (date.today() - timedelta(days=1)).strftime('%d-%m-%Y')
+    return rdate
+
 
 #-------------------------------------------------------------------------------
 #-----------------------------MAIN----------------------------------------------
 #-------------------------------------------------------------------------------
 
 if __name__ == '__main__':
+    #data for hendler
 
-    t0 = time()
-
-    rdate = (date.today() - timedelta(days=1)).strftime('%d-%m-%Y')
-
+    all_coins_price = {}
+    errors = {}
+    rdate = get_date_yesterday()
     #re_date = ['19-06-2021', '20-06-2021','21-06-2021','22-06-2021','23-06-2021']
-    PROXIES_LIST = get_proxies_list('scrap-coingesco/Webshare')
+    PROXIES_LIST = get_proxies_list('Webshare')
     #for rdate in re_date:
     ids_list = get_ids()
     first_list = ids_list
     print(rdate, len(ids_list))
-    all_coins_price = {}
-    errors = {}
-    handler(ids_list, PROXIES_LIST, rdate) # first loop
+
+    handler(ids_list, PROXIES_LIST, rdate, errors, first_list, all_coins_price) # first loop
+
+    '''
     # Start work with errors rerequests
-    stop = 10
+    stop = 20
     while len(errors) > 0 and stop != 0:
         print(len(first_list), '  >  ', len(list(all_coins_price.keys())))
         ids_list = list(errors.keys())
         errors = {}
+
         handler(ids_list, PROXIES_LIST, rdate)
+
         stop -= 1
 
         if len(first_list) > len(list(all_coins_price.keys())):
             #print(len(first_list), '  >  ', len(list(all_coins_price.keys())))
             errors = compair_flist(first_list, list(all_coins_price.keys()))
             sleep(4)
+    '''
     try:
         save_mongo(all_coins_price, rdate) # TODO MongoB
         print('saved mongo')
@@ -160,9 +196,9 @@ if __name__ == '__main__':
     print(len(all_coins_price))
     print(len(errors))
 
-    print((time() - t0) / 60)
+    #print((time() - t0) / 60)
     '''
-    with open(os.path.join(BASE_DIR, 'scrap-coingesco/data.json'), 'r') as f:
+    with open(os.path.join(base.BASE_DIR, 'scrap-coingesco/data.json'), 'r') as f:
         data = json.load(f)
     save_mongo(data, rdate)
     print(rdate)
