@@ -5,13 +5,14 @@ import json
 from pymongo import MongoClient
 from datetime import datetime
 import os
+from time import time, sleep
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 print(BASE_DIR)
 
 #client = MongoClient("mongodb+srv://coingeckoDB:12wsaq@coingecko.16oet.mongodb.net/<dbname>?retryWrites=true&w=majority")
 client = MongoClient("mongodb+srv://doadmin:O627m5J9EjxXQ081@db-mongodb-fra1-43282-c88d22b1.mongo.ondigitalocean.com/admin?tls=true&authSource=admin")
-GEN_DICT = {}
+#GEN_DICT = {}
 
 def get_dict_coins_id():
 
@@ -70,13 +71,15 @@ async def get_html_io(client, id, proxy):
             if response.status == 404:
                 GEN_ERROR[id] = f"{response.status}"
                 GEN_DICT[id] = 0
+
+
             errors[id] = f"{response.status}"
             return 0
         data = await response.json()
-
-        GEN_DICT[id] = data['watchlist_portfolio_users']
+        coin = data['watchlist_portfolio_users']
+        GEN_DICT[id] = coin[id]
         try:
-            return data['watchlist_portfolio_users']
+            return coin
         except:
             return 0
 
@@ -92,6 +95,7 @@ async def get_data_io(id, proxy):
     except:
         errors[id] = 'Exception error'
         print(proxy)
+        print(id)
 
 
 
@@ -146,6 +150,15 @@ def save_mongo(coin):
     var_data.insert_one(var_add)
 
 
+def compair_flist(flist, llist):
+    """ Compair list ids and result list --> create list for next itteration"""
+    leave_list = {}
+    for i in flist:
+        if i not in llist:
+            leave_list[i] = 'empty'
+    return leave_list
+
+
 def run():
     PROXIES_LIST = get_proxies_list('Webshare')
     #for rdate in re_date:
@@ -165,13 +178,6 @@ def run():
     save_to_json(all_coins_price)
     print(errors)
 
-def compair_flist(flist, llist):
-    """ Compair list ids and result list --> create list for next itteration"""
-    leave_list = {}
-    for i in flist:
-        if i not in llist:
-            leave_list[i] = 'empty'
-    return leave_list
 
 
 if __name__ == '__main__':
@@ -186,7 +192,7 @@ if __name__ == '__main__':
     PROXIES_LIST = get_proxies_list('scrapers/Webshare')
     #for rdate in re_date:
     ids_list = get_dict_coins_id()
-    #ids_list = ids_list[:100]
+    ids_list = ids_list[:100]
     GEN_ERROR = {}
     GEN_DICT = {}
 
@@ -198,6 +204,7 @@ if __name__ == '__main__':
     print("Start handler")
     handler(ids_list, PROXIES_LIST) # first loop
     # Start work with errors rerequests
+    '''
     stop=2
     while len(errors) > 0 and stop != 0: # Run second loop for errors
         print(len(first_list), '  >  ', len(list(GEN_DICT.keys())))
@@ -208,16 +215,13 @@ if __name__ == '__main__':
         if len(first_list) > len(list(GEN_DICT.keys())):
             errors = compair_flist(first_list, list(GEN_DICT.keys()))
             #sleep(4)
-
+            '''
     GEN_ERROR['other_errrors'] = errors
     print('Load - ', len(first_list), 'get data -', len(GEN_DICT), 'errors - ', len(GEN_ERROR))
-    #stop = 20
-    #while len(errors) > 0 and stop != 0:
 
-    #    handler(ids_list, PROXIES_LIST)
-    #    stop -= 1
 
     save_to_json(all_coins_price)
+    #save_to_json(GEN_DICT)
     print(len(errors))
 
     #run()
