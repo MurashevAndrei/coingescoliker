@@ -24,7 +24,7 @@ def get_proxies_list(file_name):
         i = 0
         proxies_list = []
         while i<len(res):
-            proxies_list.append(res[i].split(':tactjknm')[0])
+            proxies_list.append(res[i].split(':vvyyimhm')[0])
             i+=1
         print('List proxies load')
         return proxies_list
@@ -141,7 +141,7 @@ def push_tw_screen_name(data):
 
 
 async def get_api_data(client, url, proxy):
-    proxy = f'http://tactjknm:74alj06v8083 @{proxy}'
+    proxy = f'http://vvyyimhm:vu4t6rhgy97x @{proxy}'
     headers = {
         'accept': 'application/json',
     }
