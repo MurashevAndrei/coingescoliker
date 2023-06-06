@@ -25,7 +25,7 @@ def get_proxies_list(file_name):
         i = 0
         proxies_list = []
         while i<len(res):
-            proxies_list.append(res[i].split(':tactjknm')[0])
+            proxies_list.append(res[i].split(':vvyyimhm')[0])
             i+=1
         print('List proxies load')
         return proxies_list
@@ -35,7 +35,7 @@ def get_proxies_list(file_name):
 
 
 async def get_html_io(client, id, proxy, rdate):
-    proxy = f'http://tactjknm:74alj06v8083 @{proxy}'
+    proxy = f'http://vvyyimhm:vu4t6rhgy97x @{proxy}'
     #headers = { 'User-Agent': UserAgent().random }
     headers = {
         'accept': 'application/json',

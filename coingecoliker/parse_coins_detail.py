@@ -8,8 +8,10 @@ from datetime import datetime
 import json
 from pymongo import MongoClient
 
-client = MongoClient("mongodb+srv://coingeckoDB:12wsaq@coingecko.16oet.mongodb.net/<dbname>?retryWrites=true&w=majority")
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+print(BASE_DIR)
 
+client = MongoClient("mongodb+srv://doadmin:O627m5J9EjxXQ081@db-mongodb-fra1-43282-c88d22b1.mongo.ondigitalocean.com/admin?tls=true&authSource=admin")
 API_DATA = []
 
 def get_all_urls(var):
@@ -32,6 +34,7 @@ async def run_asy_parse(urls):
         await asyncio.wait([get_api_data(client, url) for url in urls])
     return web.Response(text='Done')
 
+
 def select_data():
     data_list = []
     for coin in API_DATA:
@@ -52,11 +55,17 @@ def save_mongo(data, name):
     markets_db.delete_many({})
     markets_db.insert_many(data)
 
+def save_to_json(data):
+    with open(os.path.join(BASE_DIR, 'scrap-coingesco/data_detail.json'), 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
 def main():
     pages_vol = len(get_dict_coins_id()) // 250 + 1
+    print(pages_vol)
     data = asyncio.run(run_asy_parse(get_all_urls(pages_vol)))
     data_list = select_data()
-    save_mongo(data_list, 'coins_detail')
+    save_to_json(data_list)
+    #save_mongo(data_list, 'coins_detail')
     print('details was done')
 
 

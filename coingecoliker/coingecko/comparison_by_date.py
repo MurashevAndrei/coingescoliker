@@ -251,8 +251,9 @@ def start_compare(c_date1=0, c_date2=0):
                                     })
         i = i + 1
     detail_api = get_detail.get_coins()
-    
+
     for i in detail_api:
+        print(compair_dict.keys())
         if i['coin_id'] in compair_dict.keys():
             compair_dict[i['coin_id']].update({
                                             'price_change_percentage_24h': i['price_change_percentage_24h'],
