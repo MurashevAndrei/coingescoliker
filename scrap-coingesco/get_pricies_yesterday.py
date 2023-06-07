@@ -127,6 +127,7 @@ if __name__ == '__main__':
     rdate = (date.today() - timedelta(days=1)).strftime('%d-%m-%Y')
 
     #re_date = ['19-06-2021', '20-06-2021','21-06-2021','22-06-2021','23-06-2021']
+    rdate = '24-05-2023'
     PROXIES_LIST = get_proxies_list('scrap-coingesco/Webshare')
     #for rdate in re_date:
     ids_list = get_ids()

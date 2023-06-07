@@ -17,8 +17,11 @@ def load_MongoDB(data_name):
 
 def load_pricies_MongoDB(data_name):
     db = client.test.pricies
-    data_ = db.find_one({'_id': f'price_{data_name}'})
-    data_dict = data_.get('data')
+    try:
+        data_ = db.find_one({'_id': f'price_{data_name}'})
+        data_dict = data_.get('data')
+    except:
+        data_dict = None
     return data_dict
 
 def load_Mongo_communities(data_name):
@@ -253,7 +256,7 @@ def start_compare(c_date1=0, c_date2=0):
     detail_api = get_detail.get_coins()
 
     for i in detail_api:
-        print(compair_dict.keys())
+        #print(compair_dict.keys())
         if i['coin_id'] in compair_dict.keys():
             compair_dict[i['coin_id']].update({
                                             'price_change_percentage_24h': i['price_change_percentage_24h'],

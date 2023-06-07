@@ -198,7 +198,7 @@ if __name__ == '__main__':
     print("Start handler")
     handler(ids_list, PROXIES_LIST) # first loop
     # Start work with errors rerequests
-    stop=2
+    stop=5
     while len(errors) > 0 and stop != 0: # Run second loop for errors
         print(len(first_list), '  >  ', len(list(GEN_DICT.keys())))
         coins = list(errors.keys())

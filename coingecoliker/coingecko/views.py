@@ -40,7 +40,7 @@ def index(request):
             dfrom, dto = "00", "00"
 
         if coin_wm:
-            print(coin_wm, "PRINT COIN WM")
+            #print(coin_wm, "PRINT COIN WM")
             coins = load_coins_by_custom_date(data, coin_wm)
         elif isinstance(coin_wm, list):
             if len(coin_wm) == 0:
