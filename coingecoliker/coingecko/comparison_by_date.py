@@ -16,6 +16,7 @@ def load_MongoDB(data_name):
     return data_dict
 
 def load_pricies_MongoDB(data_name):
+    print(data_name)
     db = client.test.pricies
     try:
         data_ = db.find_one({'_id': f'price_{data_name}'})

@@ -37,7 +37,7 @@ def get_links_for_APIrequests():
     links_list = []
     for coin in coins_lists:
         links_list.append(f'https://api.coingecko.com/api/v3/coins/{coin}?localization=false&tickers=false&market_data=false&sparkline=false')
-    print(len(links_list))
+    #print(links_list)
     return links_list
 
 def load_api_dev_data_mongo():
@@ -56,14 +56,14 @@ def create_mongo_document():
     resp = db.update_one( {"_id": date_today},
                           {"$set": {"update": "yes"}},
                           upsert=True)
-    return
+
 
 def create_mongo_twscrname():
     db = client.test.twscrname
     resp = db.update_one( {"_id": "twscrname"},
                           {"$set": {"update": "yes"}},
                           upsert=True)
-    return
+
 
 # TO DO update function
 def update_Mongo_document(new_data, coin_id):
@@ -74,9 +74,12 @@ def update_Mongo_document(new_data, coin_id):
         db.update_one( {"_id": date_today, "coins.id": {"$ne": coin_id}},
                        {"$push": {"coins": new_data}},
                        False, True)
+        print('MONGO UPDATED')
     except Exception as e:
+        print('MONGO ERROR')
         print(e)
-    return
+
+
 
 def update_Mongo_twscrname(new_data, coin_id):
     db = client.test.twscrname
@@ -85,14 +88,15 @@ def update_Mongo_twscrname(new_data, coin_id):
                        {"$push": {"coins": new_data}},
                        False, True)
     except Exception as e:
+        print("twscrname error")
         print(e)
-    return
+
 
 def write_error_mongoDB(url_error):
     date_today = datetime.utcnow().strftime("%Y-%m-%d")
     db = client.test.coins_data_errors
     db.update_one({"_id": date_today}, {"$addToSet": {"url": url_error}}, upsert=True)
-    return
+
 
 def check_list_errors():
     date_today = datetime.utcnow().strftime("%Y-%m-%d")
@@ -128,8 +132,9 @@ def create_coinData_dict(data):
                 'categories': data['categories'],
             #    'TwSN': data['links']['twitter_screen_name']
             }
+    print(result_data)
     update_Mongo_document(result_data, data['id'])
-    return
+
 
 def push_tw_screen_name(data):
     result_data = {
@@ -137,7 +142,7 @@ def push_tw_screen_name(data):
                 'TwSN': data['links']['twitter_screen_name']
             }
     update_Mongo_twscrname(result_data, data['id'])
-    return
+
 
 
 async def get_api_data(client, url, proxy):
@@ -147,21 +152,28 @@ async def get_api_data(client, url, proxy):
     }
     try:
         async with client.get(url, proxy=proxy, headers=headers) as response:
+            print(proxy, url)
+            print(response.status)
         #async with client.get('https://coinmarketcap.com/', proxy=proxy) as response:
             r = await response.json()
+
             create_coinData_dict(r)
-            push_tw_screen_name(r)
+            try:
+                push_tw_screen_name(r)
+            except:
+                print('push tw screen name error')
             #TO DO update mongo doucument
     except Exception as e:
-        print('Exception in get_api_data', e)
-
+        #print('Exception in get_api_data', e)
         write_error_mongoDB(url)
+        await asyncio.sleep(30)
+        print('Exception in get_api_data', e)
 
 async def create_clients(url, proxy):
     """Create aiohttp ClientSession for each request"""
     try:
         loop = asyncio.get_running_loop()
-        async with aiohttp.ClientSession(loop=loop) as client:
+        async with aiohttp.ClientSession(loop=loop, trust_env=True) as client:
             await get_api_data(client, url, proxy)
     except:
         print('Exception in create_clients')
@@ -203,7 +215,7 @@ def handler(coins, proxies_list):
         #print(j, 'time', (time() - t0) / 60, f' delta time {dtime}')
         print(j)
         j += len_proxies_list
-    return
+
 
 def errors_handler(urls_error_list, proxies_list):
     i = 0
@@ -212,7 +224,7 @@ def errors_handler(urls_error_list, proxies_list):
         handler(urls_error_list, proxies_list)
         urls_error_list = check_list_errors()
         i+=1
-    return
+
 
 def add_coins_cat(list_cat, list_coins):
     result_list = []
@@ -256,6 +268,7 @@ def save_mongo_categories(result_list):
 
 def get_coins():
     proxies_list = get_proxies_list('scrapers/Webshare')
+    #print(proxies_list)
     create_mongo_document()
     try:
         create_mongo_twscrname()

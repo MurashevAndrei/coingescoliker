@@ -103,25 +103,25 @@ async def get_main(ids, proxies_list):
         raise
 
 def handler(ids_list, PROXIES_LIST):
-    a = int(round(len(ids_list) / 100, 0))
+    a = int(round(len(ids_list) / 500, 0))
     if a == 0:
         a = 1
-    j = 100
+    j = 500
     for i in range(a):
 
         if j > len(ids_list):
-            if j == 100:
+            if j == 500:
                 asyncio.run(get_main(ids_list, PROXIES_LIST))
             else:
-                asyncio.run(get_main(ids_list[j-100:], PROXIES_LIST))
+                asyncio.run(get_main(ids_list[j-500:], PROXIES_LIST))
         else:
-            asyncio.run(get_main(ids_list[j-100:j], PROXIES_LIST))
+            asyncio.run(get_main(ids_list[j-500:j], PROXIES_LIST))
 
 
         #t = random.uniform(0.6, 1)
         #sleep(t)
         #print(j, 'time', (time() - t0) / 60, f' delta time {dtime}')
-        j += 100
+        j += 500
     return
 
 def save_to_json(data):
@@ -198,7 +198,7 @@ if __name__ == '__main__':
     print("Start handler")
     handler(ids_list, PROXIES_LIST) # first loop
     # Start work with errors rerequests
-    stop=5
+    stop=10
     while len(errors) > 0 and stop != 0: # Run second loop for errors
         print(len(first_list), '  >  ', len(list(GEN_DICT.keys())))
         coins = list(errors.keys())
